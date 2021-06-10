@@ -4,7 +4,7 @@ markdown: kramdown
 gems:
   - jekyll-sitemap
 
-name: "Aleksandar"
+name: "Aleksandar Brajkovic"
 url: "https://aleksandar-b.github.io"
 baseurl: "/blog"
 description: Blog
