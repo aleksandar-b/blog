@@ -4,8 +4,7 @@ markdown: kramdown
 gems:
   - jekyll-sitemap
 
-name: Zach Holman
+name: Alex Brajkovic
 url: https://aleksandar-b.github.io
 baseUrl: /blog
-description: A fantastic blog that is fantastic.
-twitter: holman
+description: Blog.
