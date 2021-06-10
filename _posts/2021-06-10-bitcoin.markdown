@@ -2,7 +2,6 @@
 layout: post
 title: On Bitcoin
 category: posts
-draft: false
 published: true
 ---
 Bitcoin is Morse code of money.
