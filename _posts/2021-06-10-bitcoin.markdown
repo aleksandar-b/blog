@@ -2,7 +2,7 @@
 layout: post
 title: On Bitcoin
 category: posts
-published: false
+published: true
 ---
 Bitcoin is Morse code of money.
 
@@ -20,7 +20,7 @@ Hayek:
 > it would be more helpful ... if "money" were an adjective describing a property which different things could possess to varying degrees
 
 If we translate this into coding language he makes claim that that money is a role, duct type or if you are familliar with Rust - Trait. And we can have various algoritms that implements that trait - some are bad and slow, some are good and fast. 
-But what is that feature that money has the most that other goods don't have? It's a [_availabilty yield_.](https://myslu.stlawu.edu/~shorwitz/Papers/Subjectivist%20Money%20JEEH%201990.pdf "availabilty yield")
+But what is that feature that money has the most that other goods don't have? It's [_availabilty yield_](https://myslu.stlawu.edu/~shorwitz/Papers/Subjectivist%20Money%20JEEH%201990.pdf "availabilty yield").
 
 Being able to easely exchange it for any other commodity or service is what constitutes money. Money is a evolutionary institution - because money was initially the most marketable commodity. Being money is a fact, state of things.
 
@@ -41,4 +41,4 @@ So what is Bitcoin?
 
 Bitcoin should be looked upon as rare asset like Pokemon cards whose price can skyrocket because of it's rarity and mistique around that.
 
-But being in a league with Pokemon characters is not fair comparison. Pokemon cards where somewhat usefull, Bitcoin is not usefull at all.
+But being in a league with Pokemon cards is not a fair comparison. Pokemons where somewhat usefull, Bitcoin is not usefull at all.
