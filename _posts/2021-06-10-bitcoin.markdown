@@ -2,7 +2,7 @@
 layout: post
 title: On Bitcoin
 category: posts
-published: true
+published: false
 ---
 Bitcoin is Morse code of money.
 
@@ -20,10 +20,7 @@ Hayek:
 > it would be more helpful ... if "money" were an adjective describing a property which different things could possess to varying degrees
 
 If we translate this into coding language he makes claim that that money is a role, duct type or if you are familliar with Rust - Trait. And we can have various algoritms that implements that trait - some are bad and slow, some are good and fast. 
-But what is that feature that money has the most that other goods don't have? It's _availabilty yield_.
- 
-https://myslu.stlawu.edu/~shorwitz/Papers/Subjectivist%20Money%20JEEH%201990.pdf
-
+But what is that feature that money has the most that other goods don't have? It's a [_availabilty yield_.](https://myslu.stlawu.edu/~shorwitz/Papers/Subjectivist%20Money%20JEEH%201990.pdf "availabilty yield")
 
 Being able to easely exchange it for any other commodity or service is what constitutes money. Money is a evolutionary institution - because money was initially the most marketable commodity. Being money is a fact, state of things.
 
@@ -38,7 +35,7 @@ What is behind recent Bitcoin high demand is hype created by two groups of peopl
 
 - austrians crackpots like Balaji - They are former internet austrians or goldbugs. Austrian school of economics become realy popular afer The Great Recession among normies.
 
-- tech people (I call them intruders to monetary theory) - Mostly programmers who can not understant what money is, are not interested in that, and because they lack knowledge and interest, they try to compensate that by talking about some frivoulous tech implementaion details like blockchain, proof of work etc.
+- tech people (I call them intruders to monetary theory) - Mostly programmers who can not understant what money is, are not interested in that, and because they lack knowledge and interest, they try to compensate that by talking about some frivoulous tech implementation details like blockchain, proof of work,  etc.
 
 So what is Bitcoin?
 
