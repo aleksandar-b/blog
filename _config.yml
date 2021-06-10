@@ -5,6 +5,7 @@ gems:
   - jekyll-sitemap
 
 name: Zach Holman
-url: https://zachholman.com/left
+url: https://aleksandar-b.github.io
+baseUrl: /blog
 description: A fantastic blog that is fantastic.
 twitter: holman
