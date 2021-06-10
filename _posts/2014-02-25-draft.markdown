@@ -1,0 +1,50 @@
+---
+layout: post
+title: On Bitcoin
+category: posts
+draft: true
+published: false
+---
+Bitcoin is Morse code of money.
+
+Useless and inferior technology for every day use case given existing alternatives, but good in some special circumstances like when being trapped in an island with autocrat that wants to take your money.
+
+I consider money as the third most important human institution ever created. 
+
+- Language
+- Market price system
+- Money
+
+So what is money?
+
+Hayek:
+> it would be more helpful ... if "money" were an adjective describing a property which different things could possess to varying degrees
+
+If we translate this into coding language he makes claim that that money is a role, duct type or if you are familliar with Rust - Trait. And we can have various algoritms that implements that trait, some are bad and slow some are good and fast. 
+But what is that feature that money has the most that other goods don't have? It's _availabilty yield_.
+ 
+https://myslu.stlawu.edu/~shorwitz/Papers/Subjectivist%20Money%20JEEH%201990.pdf
+
+
+Being able to easely exchange it for any other commodity or service is what constitutes money. Money is a evolutionary institution - because money was initially the most marketable commodity. Being money is a fact, state of things.
+
+Bitcoin has several problems that makes him unsuitable for acting as money: 
+
+1. high exchange fees
+2. can do just limited numbers of transactions (<70) 
+3. copy of gold standard which caused the Great Depression
+
+
+It's a technology that takes us back 100 years in a past and we should not allow that.
+
+What is behind recent Bitcoin high demand is hype created by two groups of people:
+
+- austrians crackpots like Balaji - They are former internet austrians or goldbugs. Austrian school of economics become realy popular afer The Great Recession among normies.
+
+- tech people (I call them intruders to monetary theory) - Mostly programmers who can not understant what money is, are not interested in that, and because they lack knowledge and interest, they try to compensate that by talking about some frivoulous tech implementaion details like blockchain, proof of work etc.
+
+So what is Bitcoin?
+
+Bitcoin should be looked upon as rare asset like Pokemon cards whose price can skyrocket because of it's rarity and mistique around that.
+
+But being in a league with Bitcoin is an injustice to Pokemon characters. Pokemon cards where somewhat usefull, Bitcoin is not usefull at all.
