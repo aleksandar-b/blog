@@ -5,6 +5,5 @@ gems:
   - jekyll-sitemap
 
 name: "Aleksandar Brajkovic"
-baseurl: /blog
-url: "https://aleksandar-b.github.io"
+url: "https://aleksandar-b.github.io/blog"
 description: Blog
