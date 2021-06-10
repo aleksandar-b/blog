@@ -4,6 +4,7 @@ markdown: kramdown
 gems:
   - jekyll-sitemap
 
+theme: minima
 name: "Aleksandar Brajkovic"
 url: "https://aleksandar-b.github.io/blog"
 description: Blog
