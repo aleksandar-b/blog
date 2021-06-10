@@ -28,9 +28,9 @@ https://myslu.stlawu.edu/~shorwitz/Papers/Subjectivist%20Money%20JEEH%201990.pdf
 Being able to easely exchange it for any other commodity or service is what constitutes money. Money is a evolutionary institution - because money was initially the most marketable commodity. Being money is a fact, state of things.
 
 Bitcoin has several problems that makes him unsuitable for acting as money: 
-1) high exchange fees
-2) can do just limited numbers of transactions (<70) 
-3) copy of gold standard which caused the Great Depression
+1. high exchange fees
+2. can do just limited numbers of transactions (<70) 
+3. copy of gold standard which caused the Great Depression
 
 It's a technology that takes us back 100 years in a past and we should not allow that.
 
