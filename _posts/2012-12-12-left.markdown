@@ -5,4 +5,6 @@ category: posts
 published: true
 ---
 
-Welcome to my blog. I will use this blog to write mostly about books I am reading, problems I am encountering in tech, and above all - economics! :love. Until then, stay strong and eat your vegies.
+Welcome to my blog. 
+
+I will use this blog to write mostly about books I am reading, problems I am encountering in tech, and above all - economics. :love. Until then, stay strong and eat your vegies.
