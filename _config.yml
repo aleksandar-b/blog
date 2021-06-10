@@ -1,4 +1,4 @@
-permalink: /:title
+permalink: /posts/:title
 markdown: kramdown
 
 gems:
