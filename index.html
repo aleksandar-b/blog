@@ -1,11 +1,12 @@
 ---
 layout: layout
-title: "Posts"
+title: Posts
+published: true
 ---
 
 <section class="content">
   <ul class="listing">
-    {% for post in site.posts %}
+    {% for post in site.posts | reverse %}
       {% unless post.draft %}
       <li>
         <span>{{ post.date | date: "%B %e, %Y" }}</span> <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
