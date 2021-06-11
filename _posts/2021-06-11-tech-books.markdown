@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 Here is the list of my favorite tech books so far:
 
