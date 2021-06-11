@@ -19,24 +19,25 @@ So what is money?
 Hayek:
 > it would be more helpful ... if "money" were an adjective describing a property which different things could possess to varying degrees
 
-If we translate this into coding language he makes claim that that money is a role, duct type or if you are familliar with Rust - Trait. And we can have various algoritms that implements that trait - some are bad and slow, some are good and fast. 
-But what is that feature that money has the most that other goods don't have? It's [_availabilty yield_](https://myslu.stlawu.edu/~shorwitz/Papers/Subjectivist%20Money%20JEEH%201990.pdf "availabilty yield").
+If we translate this into coding language he makes the claim that money is a role, duct type or if you are familliar with Rust - Trait. And we can have various algoritms that implements that trait - some are bad and slow, some are good and fast. 
 
-Being able to easely exchange it for any other commodity or service is what constitutes money. Money is a evolutionary institution - because money was initially the most marketable commodity. Being money is a fact, state of things.
+But what is that feature that money has the most that other goods don't have? It's [_availabilty yield_](https://myslu.stlawu.edu/~shorwitz/Papers/Subjectivist%20Money%20JEEH%201990.pdf "availabilty yield") or _moneyness_.
 
-Bitcoin has several problems that makes him unsuitable for acting as money: 
+Being able to easely exchange it for any other commodity or service is what constitutes money. Money is a evolutionary institution - because money was initially the most marketable commodity, the commodity with the most moneyness.
+
+Bitcoin has several problems that puts him at the bottom on the scale of moneyness: 
 1. high exchange fees
-2. can do just limited numbers of transactions (<70) 
-3. copy of gold standard which caused the Great Depression
+2. can do just limited numbers of transactions (<4.6 per second) 
+3. it's a copy of the rigid gold standard which caused the Great Depression
 
-It's a technology that takes us back 100 years in a past and we should not allow that.
+It's a technology that takes us back 100 years in the past and we should not allow that by any means.
 
-What is behind recent Bitcoin high demand is hype created by two groups of people:
+What is behind recent Bitcoin high demand is a perfect hype of ignorance and ideology. It is fueled mostly by two groups of people:
 
 - austrians crackpots like Balaji - They are former internet austrians or goldbugs. Austrian school of economics become realy popular after The Great Recession among normies.
 
-- tech people (I call them intruders to monetary theory) - Mostly programmers who can not understant what money is, are not interested in that, and because they lack knowledge and interest, they try to compensate that by talking about some frivoulous tech implementation details like blockchain, proof of work, etc.
+- tech people - Mostly programmers, who are practitioners by default. They can not understant what money is and are not interested in theory and history of money. Because they lack knowledge and interest in subject, they try to compensate that by talking about some frivoulous tech implementation details they find interesting like blockchain, proof of work, etc.
 
 So what is Bitcoin?
 
-Bitcoin should be looked upon as rare asset like Pokemon cards whose price can skyrocket because of it's rarity and mistique around that. But being in a league with Pokemon cards is not a fair comparison. Pokemons where somewhat usefull, Bitcoin is not usefull at all.
+Bitcoin should be looked upon as rare asset like Pokemon cards whose price can skyrocket because of it's rarity and mistique around that. But being in a league with Pokemon cards is not a fair comparison. Pokemons, because it attributed to socialization, where somewhat usefull, Bitcoin is not usefull at all.
