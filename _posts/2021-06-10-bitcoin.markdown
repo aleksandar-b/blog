@@ -14,14 +14,14 @@ I consider money as the third most important human institution ever created.
 - Market price system
 - Money
 
-Being able to easely exchange it for any other commodity or service is what constitutes money. Money is a evolutionary institution - because money was initially the most saleable commodity of all commodities out there in a barter economy. Actors in barter exchanges eventually realize that they can more easily execute such exchanges if they hold stocks of comodities that are greatly desired by other members of the trading community.
+Being able to easely exchange it for any other commodity or service is what constitutes money. Money is a evolutionary institution - because money was initially the most saleable commodity of all commodities out there in a barter economy. Actors in barter exchanges eventually realize that they can more easily execute such exchanges if they hold stocks of comodities that are greatly desired by other members of the trading community. Eventually this process reveals the one good which is the most saleable. 
 
 Hayek:
 > it would be more helpful ... if "money" were an adjective describing a property which different things could possess to varying degrees
 
 If we translate this into coding language he makes the claim that money is a role one thing can possess. Let's call it moneyness.  And we can have various algoritms that implement that role - some are bad and slow, some are good and fast.
 
-So the feature that money has the most and that other goods don't have is [_availabilty yield_](https://myslu.stlawu.edu/~shorwitz/Papers/Subjectivist%20Money%20JEEH%201990.pdf "availabilty yield"). In this article Horwitz introduces the concept - _degrees of moneyness_: 
+So the feature that money has the most and that other goods don't have in that degree is [_availabilty yield_](https://myslu.stlawu.edu/~shorwitz/Papers/Subjectivist%20Money%20JEEH%201990.pdf "availabilty yield"). When one holds a stock of money, one has something available, waiting to perform its ultimate service of exchanging for non-money goods and services. In this article Horwitz introduces the concept - _degrees of moneyness_: 
 > What can be said is that financial assets have degrees of "moneyness" about them, and that different financial assets can be placed along a moneyness continuum.
 
 Bitcoin has several problems that puts him at the bottom on the scale of moneyness: 
