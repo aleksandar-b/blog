@@ -3,7 +3,8 @@ markdown: kramdown
 
 gems:
   - jekyll-sitemap
-
+  
+google_analytics: UA-150203379-1
 theme: minima
 name: "Alex"
 url: "https://aleksandar-b.github.io/blog"
