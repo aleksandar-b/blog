@@ -4,6 +4,7 @@ markdown: kramdown
 gems:
   - jekyll-sitemap
   
+twitter: a_sarentorbic  
 google_analytics: UA-150203379-1
 theme: minima
 name: "Alex"
