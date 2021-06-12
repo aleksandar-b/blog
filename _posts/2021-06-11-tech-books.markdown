@@ -12,6 +12,7 @@ A++
 
 A+
 - Smalltalk best practice patterns - Kent Beck
+- Designing Data-Intensive Applications - Martin Kleppmann
 - Node.js Design patterns - Luciano Mammino and Mario Casciaro
 - Refactoring to patterns - Joshua Kerievsky
 - The little Schemer - Daniel P. Friedman and Matthias Felleisen
