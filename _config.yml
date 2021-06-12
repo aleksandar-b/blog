@@ -4,6 +4,10 @@ markdown: kramdown
 gems:
   - jekyll-sitemap
   
+plugins:
+ - jekyll-seo-tag
+
+  
 twitter: a_sarentorbic  
 google_analytics: UA-150203379-1
 comments: true
