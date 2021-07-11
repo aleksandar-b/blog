@@ -8,23 +8,25 @@ published: true
 In this article I will try to compare Bitcoin with 4 other real world things.
 
 
-Summary:
+Abstract:
 
-1. Technology behind it - it should be compared with Morse code.
+1. Technology behind it - where I compare it with Morse code.
 
-2. Influence on people - it should be compared with comunism, nacism, goldbuggery and phenomenon of usefull idiots.
+2. High valuation of Bitcoin - where I compare it with Pokemon/Baseball cards.
 
-3. Practical consequences that can have - it should be compared with Holocaust or Great Depression.
+3. Influence on people - where I compare it with comunism, nacism, goldbuggery and phenomenon of usefull idiots.
 
-4. High valuation of Bitcoin - it should be compared with Pokemon/Baseball cards.
+4. Practical consequences that can have - where I compare it with Holocaust or Great Depression.
+
+
 
 
  ### Technology behind it
- Bitcoin is Morse code of money. That thought striked me while I was reading [Code](https://www.amazon.com/Code-Language-Computer-Hardware-Software/dp/0735611319 "Code: The Hidden Language of Computer Hardware and Software") by Charles Petzold. While not directly related to my theme here, he points out that in order to communicate we have multiple available options (voice, written word, Morse code). While Morse code is inferior tech to voice and writen word, it can be usefull for some funny edge cases like if you want to communicate at night with your friend that lives near you without disturbing anyone else.
+ Bitcoin is Morse code of money. That thought striked me while I was reading [Code](https://www.amazon.com/Code-Language-Computer-Hardware-Software/dp/0735611319) by Charles Petzold. While not directly related to my theme here, he points out that in order to communicate we have multiple available options (voice, written word, Morse code). While Morse code is inferior tech to voice and writen word, it can be usefull for some funny edge cases like if you want to communicate at night with your friend that lives near you without disturbing anyone else.
 
 The same is with Bitcoin and crypto in general - Inferior technology for every day use case given existing alternatives, but good in some special circumstances like when being trapped in an island with autocrat that wants to take your money.
 
-- What is Money and why Bitcoin fails as money?
+What is money and why Bitcoin fails as money?
 
 I consider money as the third most important human institution ever created after language and free market price system.
 
@@ -43,6 +45,8 @@ Bitcoin has several problems that puts him at the bottom on the scale of moneyne
 2. can do just limited numbers of transactions (<4.6 per second) 
 3. it's a copy of the rigid gold standard which caused the Great Depression
 
+### High valuation of Bitcoin
+Bitcoin should be looked upon as rare asset like Pokemon cards whose price can skyrocket because of it's rarity and mistique around that. But being in a league with Pokemon cards is not a fair comparison. Pokemons, because it attributed to socialization, where somewhat usefull, Bitcoin is not usefull at all.
 
 ### Influence on people
 What is behind recent Bitcoin high demand is a perfect hype of ignorance and ideology. It is fueled mostly by two groups of people:
@@ -56,5 +60,4 @@ How long can this last and what will be consequences?
 
 Quite a lot. Since what determines price of everything is our own subjective beliefs. History has thought as that beliefs can last millenia and that they are mostly wrong. Delusions are normal state of things through history. There is no point to list you all unrational delusions in the past 500 years. No point to tell you about Salem witches trials just 300 years ago, bloody religious wars in Europe, holocaust, communism. Those people seriously believed in their ideas and more importantly they believed in that for many centuries. The disasterous efects it can have if suddenly becomes legal tender can be comapared with Great Depression or Holocaust.  
 
-### High valuation of Bitcoin
-Bitcoin should be looked upon as rare asset like Pokemon cards whose price can skyrocket because of it's rarity and mistique around that. But being in a league with Pokemon cards is not a fair comparison. Pokemons, because it attributed to socialization, where somewhat usefull, Bitcoin is not usefull at all.
+
