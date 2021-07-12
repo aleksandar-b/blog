@@ -5,7 +5,7 @@ category: posts
 published: true
 ---
 
-In this article I will try to compare Bitcoin with 4 other real world things.
+In this article I will try to look at Bitcoin through 4 aspects and compare it with similar existing occurences.
 
 
 Abstract:
