@@ -21,8 +21,7 @@ Abstract:
 
 
 
- ### Technology behind it
-
+### Technology behind it
 Bitcoin is Morse code of money. That thought striked me while I was reading [Code](https://www.amazon.com/Code-Language-Computer-Hardware-Software/dp/0735611319) by Charles Petzold. While not directly related to my theme here, he points out that in order to communicate we have multiple available options (voice, written word, Morse code). While Morse code is inferior tech to voice and writen word, it can be usefull for some funny edge cases like if you want to communicate at night with your friend that lives near you without disturbing anyone else.
 
 The same is with Bitcoin and crypto in general - Inferior technology for every day use case given existing alternatives, but good in some special circumstances like when being trapped in an island with autocrat that wants to take your money.
