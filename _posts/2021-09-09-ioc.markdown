@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-title: Dependency inversion principle frmom history
+title: Dependency inversion principle from history
 category: posts
 ---
 
