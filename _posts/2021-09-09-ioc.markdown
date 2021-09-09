@@ -1,5 +1,8 @@
 ---
 published: true
+layout: post
+title: Dependency inversion principle frmom history
+category: posts
 ---
 
 I think I found earliest example of inversion of control/dependency inversion principle.
