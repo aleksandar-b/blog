@@ -24,27 +24,7 @@ Abstractions don't have lifycycle, they can't be created (come into existance) o
 
 ![Abstractions/Values can not be instantiated]({{site.baseurl}}/_posts/carbon (3).png)
 
-Typical OOP ❌
-```js
-
-List<Text> sorted = new ListOf<>(
-  new Sorted<>(
-    new Split(
-      new TextOf(
-        new File("/tmp/names.txt")
-      ),
-      new TextOf("\\s+")
-    )
-  )
-)
-
-```
-When keyword new is removed it reads like a functional programming.
-
-OOP without new keyword ✅
-```js
-List<Text> sorted = ListOf<>(Sorted<>(Split(TextOf(File("/tmp/names.txt")),TextOf("\\s+"))))
-```
+****
 
 #### Abstractions don't change
 Abstractions can have attributes like entities, but they don't change it's attributes. Changing it's attributes causes it to be different abstraction. `Money(2, "$")` is different abstraction than `Money(10, "$")`. Unlike entities which can change all it's atributes through time and still be the same entity.
