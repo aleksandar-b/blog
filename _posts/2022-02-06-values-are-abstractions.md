@@ -19,12 +19,13 @@ Since they don't have space/time component, it is said that concept of existence
 Number two subsumes all particular pairs of entitites out there. It subsumes pair of apples in your kitchen, pair chairs in your office, pair of shoes, two persons married. While all those particular entities may come and go out of the existence, as they do, what remains is the abstraction two. 
 
 #### Abstractions can not be instantiated
-Abstractions don't have lifycycle, they can't be created (come into existance) or destroyed (go out of the existance). Concept of instance is meaningless to abstractions. In early OOP languages like Smalltalk and Simula objects/entities are created by explicit request (the _new_ operation), and are destroyed by a garbage-collector when no longer needed. So technically it is not correct to use new keyword for values.
+Abstractions don't have lifycycle, they can't be created (come into existance) or destroyed (go out of the existance). Concept of instance is meaningless to abstractions. It is remarkably that no one knows how keyword _new_ came into existence and what was it's purpose. Yet it is ubiquitous. In early OOP languages like Smalltalk and Simula objects/entities are created by explicit request (the _new_ operation), and are destroyed by a garbage-collector when no longer needed. So technically _it is not correct_ to use _new_ keyword for values.
 
 
 ![Abstractions/Values can not be instantiated]({{site.baseurl}}/_posts/carbon (3).png)
 
-****
+![Abstractions/OOP without new]({{site.baseurl}}/_posts/carbon (4).png)
+
 
 #### Abstractions don't change
 Abstractions can have attributes like entities, but they don't change it's attributes. Changing it's attributes causes it to be different abstraction. `Money(2, "$")` is different abstraction than `Money(10, "$")`. Unlike entities which can change all it's atributes through time and still be the same entity.
@@ -33,4 +34,3 @@ Abstractions can have attributes like entities, but they don't change it's attri
 ### Values are common nouns
 Natural languages distinquishes between common nouns and proper nouns.
 Common nouns are generic things like country, while proper nouns are specific entities like Spain. Spain came into existence in some point in time and space, changed it's attributes through time, and will eventually go out of the existance.
-
