@@ -24,6 +24,7 @@ Abstractions don't have lifycycle, they can't be created (come into existance) o
 
 ![Abstractions/Values can not be instantiated](https://raw.githubusercontent.com/aleksandar-b/blog/gh-pages/_posts/carbon%20(3).png)
 
+Removing new keyword reads like a functional programming in Typescript
 ![Abstractions/OOP without new](https://raw.githubusercontent.com/aleksandar-b/blog/gh-pages/_posts/carbon%20(4).png)
 
 
