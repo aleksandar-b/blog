@@ -12,10 +12,10 @@ Bellow is a list of differences and the consequences they have.
 #### Abstractions don't have space and time component
 Abstractions are defined by particular entities which they subsume. While particular entities are identifiable through space and time, abstractions don't have an identity. It is meaningles to ask which number two did I change in 1+1, as it is also meaningless to answer with: that number two or other one. There is only one number two. Time and space are what our brains uses to individuate entities. It is called in philosophy principium indivituationis.
 
-#### Abstractions don't have existence
-Since they don't have space/time component, it is said that concept of existence is not aplicable to abstractions. It is meaningless to speak about them as coming into existence or going out of the existence. They always are and have no becoming - they are atemporal and aspatial.
+#### Concept of existence is not applicable to abstractions
+Since they don't have space/time component, it is said that concept of existence is not applicable to abstractions. It is meaningless to speak about them as coming into existence or going out of the existence. They always are and have no becoming - they are atemporal and aspatial.
 
-Number two subsumes all particular pairs of entitites out there. It subsumes pair of apples in your kitchen, pair chairs in your office, pair of shoes, two persons married. While all those particular entities may come and go out of the existence, as they do, what remains is the abstraction two. 
+Number two subsumes all particular pairs of entitites out there. It subsumes pair of apples in your kitchen, pair chairs in your office, pair of shoes, two persons married. While all those particular entities may come and go out of the existence, as they do, what remains is the abstraction two.
 
 #### Abstractions can not be instantiated
 Abstractions don't have lifycycle, they can't be created (come into existence) or destroyed (go out of the existence). Concept of instance is meaningless to abstractions. It is remarkably that no one knows how keyword _new_ came into existence and what was it's purpose. Yet it is ubiquitous. In early OOP languages like Smalltalk and Simula objects/entities are created by explicit request (the _new_ operation), and are destroyed by a garbage-collector when no longer needed. So technically _it is not correct_ to use _new_ keyword for values.
