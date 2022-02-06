@@ -1,7 +1,6 @@
 ---
 published: true
 ---
-## Values are abstractions
 
 > "That which always is and has no becoming." -Plato
 
@@ -32,6 +31,6 @@ Removing new keyword reads like a functional programming in Typescript
 Abstractions can have attributes like entities, but they don't change it's attributes. Changing it's attributes causes it to be different abstraction. `Money(2, "$")` is different abstraction than `Money(10, "$")`. Unlike entities which can change all it's atributes through time and still be the same entity.
 
 
-### Values are common nouns
-Natural languages distinquishes between common nouns and proper nouns.
+#### Abstractions are common nouns
+Natural languages distinquishes between common nouns and proper nouns.It is usefull distinction which shows that programming languages should also distinquish those concepts.
 Common nouns are generic things like country, while proper nouns are specific entities like Spain. Spain came into existence in some point in time and space, changed it's attributes through time, and will eventually go out of the existence.
