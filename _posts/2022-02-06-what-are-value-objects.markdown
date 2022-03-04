@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 
 > "That which always is and has no becoming." -Plato
@@ -9,33 +9,28 @@ The main feature that distinquish value objects from entities is that values are
 
 Bellow is a list of differences and the consequences they have.
 
-#### Abstractions don't have space and time component
-Time and space are what our brains uses to individuate particular things. It is called in philosophy principium indivituationis and allows multiplicity of things. Without that everything in universe would be one.
-
-Abstractions are defined by particular entities which they subsume. While particular entities are identifiable through space and time, abstractions don't really exists in space and time. They are in true sense timeless.
-
-#### Abstractions can not be shared or copied, there is only one instance of it
-In a expresion 1+1=2 it is meaningles to ask which number two did I change in 1+1, as it is also meaningless to answer with: that number two or other one. There is only one number two.
-
-#### Concept of existence is not applicable to abstractions
-Since they don't have space/time component, it is said that concept of existence is not applicable to abstractions. It is meaningless to speak about them as coming into existence or going out of the existence. They always are and have no becoming - they are atemporal and aspatial.
-
-Number two subsumes all particular pairs of entitites out there. It subsumes pair of apples in your kitchen, pair chairs in your office, pair of shoes, two persons married. While all those particular entities may come and go out of the existence, as they do, what remains is the abstraction two.
-
 #### Abstractions can not be instantiated
-Abstractions don't have lifycycle, they can't be created (come into existence) or destroyed (go out of the existence). Concept of instance is meaningless to abstractions. It is remarkable that no one knows how keyword _new_ came into existence and what was it's purpose. Yet it is ubiquitous. In early OOP languages like Smalltalk and Simula objects/entities are created by explicit request (the _new_ operation), and are destroyed by a garbage-collector when no longer needed. So technically _it is not correct_ to use _new_ keyword for values.
-
+Concept of instance is meaningless to abstractions. It is remarkable that no one knows how keyword _new_ came into existence and what was it's purpose. Yet it is ubiquitous. In early OOP languages like Smalltalk and Simula objects/entities are created by explicit request (the _new_ operation), and are destroyed by a garbage-collector when no longer needed. So technically _it is not correct_ to use _new_ keyword for values.
 
 ![Abstractions/Values can not be instantiated](https://raw.githubusercontent.com/aleksandar-b/blog/gh-pages/_posts/carbon%20(3).png)
 
 Removing new keyword reads like a functional programming in Typescript
 ![Abstractions/OOP without new](https://raw.githubusercontent.com/aleksandar-b/blog/gh-pages/_posts/carbon%20(4).png)
 
+#### Concept of existence is not applicable to abstractions
+Since they can't be instantiated, it is said that concept of existence is not applicable to abstractions. It is meaningless to speak about them as coming into existence or going out of the existence. They always are and have no becoming - they are atemporal and aspatial.
+
+Number two subsumes all particular pairs of entitites out there. It subsumes pair of apples in your kitchen, pair chairs in your office, pair of shoes, two persons married. While all those particular entities may come and go out of the existence, what remains is the abstraction two.
 
 #### Abstractions don't change
-Abstractions can have attributes like entities, but they don't change it's attributes. Changing it's attributes causes it to be different abstraction. `Money(2, "$")` is different abstraction than `Money(10, "$")`. Unlike entities which can change all it's atributes through time and still be the same entity.
+Abstractions can have attributes like entities, but they don't change it's attributes. Changing it's attributes causes it to be different abstraction. This is because abstractions are common attributes accross collection of phenomena. `Money(2, "$")` is different abstraction than `Money(10, "$")` because we are are not talking anymore about the same collection. In today's jargon we would say they are immutable. 
 
+#### Abstractions don't have state
+Since they can't be created and they can't be changed it follows that they don't have astate. State is defined a snapshot of properties of an entity at particular time.
+
+#### Abstractions can not be shared or copied, there is only one instance of it
+In a expresion 1+1=2 it is meaningles to ask which number two did I change in 1+1, as it is also meaningless to answer with: that number two or other one. There is only one number two.
 
 #### Abstractions are common nouns
-Natural languages distinquishes between common nouns and proper nouns.It is usefull distinction which shows that programming languages should also distinquish those concepts.
+Natural languages distinquishes between common nouns and proper nouns.It is usefull heuristic which shows that programming languages should also distinquish those concepts.
 Common nouns are generic things like country, while proper nouns are specific entities like Spain. Spain came into existence in some point in time and space, changed it's attributes through time, and will eventually go out of the existence.
