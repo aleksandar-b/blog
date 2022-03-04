@@ -4,7 +4,7 @@ published: true
 
 > "That which always is and has no becoming." -Plato
 
-### Values are _pure abstractions_
+#### Values are _pure abstractions_
 The main feature that distinquish value objects from entities is that values are pure abstractions(universals, concepts, plato's form). All differences between values and entities are derived from this ultimate distinction.
 
 Bellow is a list of differences and the consequences they have.
@@ -26,11 +26,11 @@ Number two subsumes all particular pairs of entitites out there. It subsumes pai
 Abstractions can have attributes like entities, but they don't change it's attributes. Changing it's attributes causes it to be different abstraction. This is because abstractions are common attributes accross collection of phenomena. `Money(2, "$")` is different abstraction than `Money(10, "$")` because we are are not talking anymore about the same collection. In today's jargon we would say they are immutable. 
 
 #### Abstractions don't have state
-Since they can't be created and they can't be changed it follows that they don't have astate. State is defined a snapshot of properties of an entity at particular time.
+Since they can't be created and they can't be changed it follows that they don't have state. State is defined as snapshot of properties of an entity at some particular time.
 
 #### Abstractions can not be shared or copied, there is only one instance of it
-In a expresion 1+1=2 it is meaningles to ask which number two did I change in 1+1, as it is also meaningless to answer with: that number two or other one. There is only one number two.
+In a expresion 1+1=2 it is meaningles to ask which number two did I change, as it is also meaningless to answer with: that number two or other one. There is only one number two.
 
 #### Abstractions are common nouns
-Natural languages distinquishes between common nouns and proper nouns.It is usefull heuristic which shows that programming languages should also distinquish those concepts.
+Natural languages distinquishes between common nouns and proper nouns. It is usefull heuristic which shows that programming languages should also distinquish those concepts.
 Common nouns are generic things like country, while proper nouns are specific entities like Spain. Spain came into existence in some point in time and space, changed it's attributes through time, and will eventually go out of the existence.
