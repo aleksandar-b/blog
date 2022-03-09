@@ -4,6 +4,8 @@ published: true
 
 > "That which always is and has no becoming." -Plato
 
+In this post I argue that value objects are programming language substitute for abstractions in natural languages where they appear as common nouns.
+
 #### Values are _pure abstractions_
 The main feature that distinquish value objects from entities is that values are pure abstractions(universals, concepts, plato's form). All differences between values and entities are derived from this ultimate distinction.
 
