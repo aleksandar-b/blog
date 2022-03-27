@@ -36,7 +36,7 @@ Since they can't be created and ergo they can't be changed it follows that they 
 In a expresion 1+1=2 it is meaningles to ask which number two did I change, as it is also meaningless to answer with: that number two or other one. There is only one number two.
 
 #### Abstractions lack causal power
-Since they can't be put into existence, they can't influence other entities or being influenced by them. They can be just compared, related and measured.
+Since they can't be put into existence, they can't influence other entities or being influenced by them - they are outside of the causal order of the world. They can be just compared, related and measured.
 
 #### Abstractions are common nouns
 Natural languages distinquishes between common nouns and proper nouns. It is usefull heuristic which shows that programming languages should also distinquish those concepts.
