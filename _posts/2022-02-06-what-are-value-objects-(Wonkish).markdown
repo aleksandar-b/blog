@@ -22,7 +22,7 @@ Removing new keyword reads like a functional programming in Typescript
 ![Abstractions/OOP without new](https://raw.githubusercontent.com/aleksandar-b/blog/gh-pages/_posts/carbon%20(4).png)
 
 #### Concept of existence is not applicable to abstractions
-Since they can't be instantiated, it is said that concept of existence is not applicable to abstractions. It is meaningless to speak about them as coming into existence or going out of the existence. They always are and have no becoming - they are atemporal and aspatial.
+Since they can't be instantiated, it is said that concept of existence is not applicable to abstractions. It is meaningless to speak about them as coming into existence or going out of the existence. When you write 2 + 3 = 5 there is no notion that 5 came into existence. No, it is timeless relation.
 
 Let's look at typical example of value - number two. What exactly is number two?
 Number two is an abstraction that subsumes all particular pairs of entitites out there. It subsumes pair of apples in your kitchen, pair chairs in your office, pair of shoes, two persons married. While all those particular entities may come and go out of the existence, what remains is the abstraction two. Since it never comes into existence and existence is only possible in time it is said that abstraction two is eternal or atemporal. To paraphrase Plato's distinction between being and becoming: Number two (always) is (being) but it does not (be)come into existence (and go out of existence) - it does not have lifecycle.
