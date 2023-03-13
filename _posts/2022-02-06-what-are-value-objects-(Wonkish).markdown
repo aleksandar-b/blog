@@ -14,10 +14,10 @@ Bellow is a list of differences and the consequences they have.
 #### Values are not instantiated
 Concept of instance does not apply to values. Abstractions can be instatiated but at that point they become entity(particular thing). On conceptual level both your application entity classes and value classes are abstractions, with one difference that entity classes are instantiated while value classes always stay at the abstraction layer. It is remarkable that no one knows how keyword _new_ came into existence and what was it's purpose. Yet it is ubiquitous. In early OOP languages like Smalltalk and Simula objects/entities are created by explicit request (the _new_ operation), and are destroyed by a garbage-collector when no longer needed. So conceptually _it is not correct_ to use _new_ keyword for values.
 
-![Abstractions/Values can not be instantiated](https://raw.githubusercontent.com/aleksandar-b/blog/gh-pages/_posts/carbon%20(3).png)
+![Abstractions/Values can not be instantiated](https://raw.githubusercontent.com/aleksandar-b/blog/gh-pages/_posts/carbon.png)
 
 Removing new keyword reads like a functional programming in Typescript
-![Abstractions/OOP without new](https://raw.githubusercontent.com/aleksandar-b/blog/gh-pages/_posts/carbon%20(4).png)
+![Abstractions/OOP without new](https://raw.githubusercontent.com/aleksandar-b/blog/gh-pages/_posts/carbon%20(1).png)
 
 #### Concept of existence is not applicable to abstractions
 Since they can't be instantiated, it is said that concept of existence is not applicable to abstractions. It is meaningless to speak about them as coming into existence or going out of the existence. When you write 2 + 3 = 5 there is no notion that 5 came into existence. No, it is timeless relation.
