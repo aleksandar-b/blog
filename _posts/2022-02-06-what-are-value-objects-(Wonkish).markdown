@@ -12,7 +12,7 @@ The main feature that distinquish value objects from entities is that values are
 Bellow is a list of differences and the consequences they have.
 
 #### Values are not instantiated
-Concept of instance does not apply to values. Abstractions can be instatiated but at that point they become entity(particular thing). On conceptual level both your application entity classes and value classes are abstractions, with one difference that entity classes are instantiated while value classes always stay at the abstraction layer. It is remarkable that no one knows how keyword _new_ came into existence and what was it's purpose. Yet it is ubiquitous. In early OOP languages like Smalltalk and Simula objects/entities are created by explicit request (the _new_ operation), and are destroyed by a garbage-collector when no longer needed. So technically _it is not correct_ to use _new_ keyword for values.
+Concept of instance does not apply to values. Abstractions can be instatiated but at that point they become entity(particular thing). On conceptual level both your application entity classes and value classes are abstractions, with one difference that entity classes are instantiated while value classes always stay at the abstraction layer. It is remarkable that no one knows how keyword _new_ came into existence and what was it's purpose. Yet it is ubiquitous. In early OOP languages like Smalltalk and Simula objects/entities are created by explicit request (the _new_ operation), and are destroyed by a garbage-collector when no longer needed. So conceptually _it is not correct_ to use _new_ keyword for values.
 
 ![Abstractions/Values can not be instantiated](https://raw.githubusercontent.com/aleksandar-b/blog/gh-pages/_posts/carbon%20(3).png)
 
