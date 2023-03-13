@@ -9,8 +9,6 @@ In this post I argue that value objects are programming language substitute for 
 #### Values are _pure abstractions_
 The main feature that distinquish value objects from entities is that values are pure abstractions(universals, concepts, plato's form). All differences between values and entities are derived from this ultimate distinction.
 
-Definition of abstraction: Abstraction is a generalized idea of a **collection** of phenomena, based on knowledge of common properties of instances in the collection. Abstraction can be multiply instantiated.
-
 Bellow is a list of differences and the consequences they have.
 
 #### Values are not instantiated
