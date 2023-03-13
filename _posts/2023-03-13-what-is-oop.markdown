@@ -7,7 +7,7 @@ category: posts
 
 What distinquishes OOP from other programming paradigms? For example - what distinquishes OOP from Functional programming?
 
-I would like to talk about forgotten definition of OOP. It was forgotten in 80s and early 90s when academics entered the field and in their desperate need to categorise everything tried to categorise OOP also. 
+I would like to talk about forgotten definition of early OOP which viewed that all programming is simulation. It was forgotten in 80s and early 90s when academics entered the field and in their desperate need to categorise everything tried to categorise OOP also. Certainly not all problems in programming require simulaiton approach - just some. For non complex tasks like data transformations, calculations, CRUD etc you can use Functional programming. What is common to all these non complex task is that they lack TIME component. But what exactly do we mean when we say that? I will try to answer bellow - it is not exactly time but something that is only possible through time.  
 
 You certainly know, or had to memorise this dry academic categorisation of OOP:
 
