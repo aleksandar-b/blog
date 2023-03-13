@@ -84,10 +84,12 @@ a {
 }
 
 .content {
-  max-width: 650px;
+  max-width: 550px;
   margin-left: 110px;
   margin-right: 20px;
   margin-bottom: 50px;
+  margin: auto;
+  font-family: 'SF Pro Display',-apple-system,BlinkMacSystemFont,'Inter','Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';
   h1, h2, h3, h4 {
     color: #333;
     font-family: "Yanone Kaffeesatz", Helvetica, sans-serif;
