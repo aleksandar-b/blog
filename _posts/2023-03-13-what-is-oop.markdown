@@ -4,6 +4,7 @@ layout: post
 title: What is Object oriented programming - once and for all.
 category: posts
 ---
+### Or programming is simulation
 
 What distinquishes OOP from other programming paradigms? For example - what distinquishes OOP from Functional programming?
 
@@ -17,7 +18,8 @@ You certainly know, or had to memorise this dry academic categorisation of OOP:
 4. Abstraction
 
 I would like to restate the view from early 80s when OOP viewed the programming as simulation. It was influenced by Simula btw. 
-But what are objects? In real world we have objects and in programming we have objects. OOP was created to simulate some real world objects.
+
+What are objects? In real world we have objects and in programming we have objects. OOP was created to simulate some real world objects.
 
 What it means to simulate? Let's have a look at description of Uncle Bob Martin about how OOP was created. At one moment he was very close to find what exactly is specific difference between OOP and other paradigms, but then he went on with typical encapsulation, polymorphism etc..
 
