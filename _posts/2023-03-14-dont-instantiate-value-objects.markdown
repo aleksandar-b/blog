@@ -14,12 +14,20 @@ The main thing that distinquish value objects from entities is that values are _
 ![Abstractions/Values](https://raw.githubusercontent.com/aleksandar-b/blog/gh-pages/_posts/table_abstract.png)
 The act of transitioning from abstraction to concrete is called instantiation.
 
-Ergo, concept of instance does not apply to values. Abstractions can be instatiated but at that point they become entity(particular thing). And entity has an identity.
+Ergo, concept of instance does not apply to values. Abstractions can be instatiated but at that point they become entity(particular thing).
+ 
+Example:
 
-In real world we instantiate by identifying concrete thing we are talking about. How we identify? With time and space. I know you are not same as me because you are at different location in space at this point in time than I am. There is also contextual identification like when I say "My aunt". Everyone can identify the person based on context. 
+When you write `2 + 2 = 4` you can not say that 4 came into existence. Number 4 existed before this calculation.
+
+While when you write `new User(name: "Jody Lecompte", state: Lousiana)` you have put into existence particular user which did not existed before in your system.
+
+### Principle of individuation
+In real world we instantiate by identifying concrete thing we are talking about. How we identify? With time and space. I know you are not same as me because you are at different location in space at this point in time than I am. There is also contextual identification like when I say "My aunt". Everyone can identify that person based on context. 
 
 In programming we first used memory location to identify objects. Now we use GUIDs.
 
+### New keyword
 On conceptual level both your application entity classes and value classes are abstractions, with one difference that entity classes are instantiated while value classes always stay at the abstraction layer. 
 It is remarkable that no one knows how keyword _new_ came into existence and what was it's purpose. Yet it is ubiquitous. In early OOP languages like Smalltalk and Simula objects/entities are created by explicit request (the _new_ operation), and are destroyed by a garbage-collector when no longer needed. _new_ keyword was a command that says to computer - put this thing into existence. So conceptually **it is not correct** to use _new_ keyword for values.
 
