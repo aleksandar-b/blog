@@ -1,18 +1,18 @@
 ---
 published: true
 layout: post
-title: Is Country an Entity or Value object.
+title: Is Country an Entity or Value object?
 category: posts
 ---
 
 Let's explore some edge case where you have a Country class that serves only as a value to some other entity.
 
-`
+```js
 class Country {
     id: string
     name: string
 }
-`
+```
 
 Do you think this should be a value or an entity? 
 
