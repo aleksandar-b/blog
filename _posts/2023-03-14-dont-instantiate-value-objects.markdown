@@ -5,7 +5,7 @@ title: Don't instantiate value objects
 category: posts
 ---
 
-Values = Abstraction
+Values = Abstractions
 
 #### Values are not instantiated
 
