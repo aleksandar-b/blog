@@ -2,12 +2,13 @@
   margin: 0;
   background-color: #eee;
   font-size: 12px;
-  padding: 0px 15px;
+  padding: 10px 15px;
   -webkit-border-radius: 10px;
   -moz-border-radius: 10px;
   overflow: hidden;
   text-shadow: none;
   color: #111;
+  border: 1px solid #ddd;
 }
 .hightlight code{
   float: left;
