@@ -11,13 +11,6 @@ Values = Abstraction
 
 The main thing that distinquish value objects from entities is that values are _pure_ abstractions. Oposite of abstraction is a concrete thing (this or that). Something that can be identifieable by pointing finger to it.
 
-| Abstract 	| Concrete                       	|
-|----------	|--------------------------------	|
-| Person   	| George Bush                    	|
-| Dog      	| this dog Snuppy                	|
-| $10      	| this $10 note                  	|
-| number 2 	| this pair of apples on my desk 	|
-
 The act of transitioning from abstraction to concrete is called instantiation.
 
 Ergo, concept of instance does not apply to values. Abstractions can be instatiated but at that point they become entity(particular thing). And entity has an identity.
