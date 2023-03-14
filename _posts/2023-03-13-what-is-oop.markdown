@@ -4,7 +4,7 @@ layout: post
 title: What is Object oriented programming - once and for all.
 category: posts
 ---
-### Or programming is simulation
+### Programming is simulation
 
 What distinquishes OOP from other programming paradigms? For example - what distinquishes OOP from Functional programming?
 
@@ -31,10 +31,11 @@ What it means to simulate? Let's have a look at description of Uncle Bob Martin 
 >The function became a constructor for a class, the local variables became instance
 >variables, and the nested functions became methods. This led inevitably to the discovery
 >of polymorphism through the disciplined use of function pointers
-> Uncle Bob
 
-Do you see what is the key part here? I will tell you - that part is "**exist** long after the function returned.". This was huge. It means for object to **live** or in another words - you created simulation. To exists or to live means that passage of time does not anihiliate concrete identifieable object. Existence is only possible in time, even just for a split of a second. Existence have a lifecycle - something can come into existence, go out of existence and changed during existence (state) while biggest changes being coming and going out of existence. Something that does not come into existence but can be defined is considered eternal or atemporal like abstractions. For example number two. Functional programming is all about abstractions that don't come into existence and don't change it's properties or states. But you can not build anything usefull this way, you are just doing math. Complex aplication are complex because they try to simulate some part of real world. So we see that Simulation has some parts that should be defined:
+Do you see what is the key part here? I will tell you - that part is "**exist** *long after the function returned*.". This was huge. It means that objects can **live**, to have **existance**. In another words - you created simulation. To exists or to live means that passage of time does not anihiliate concrete identifieable object. Existence is only possible in time, even just for a split of a second. Existence has a lifecycle - something can come into existence, go out of existence and be changed during existence (state), while biggest changes being coming and going out of existence. Something that does not come into existence but can be defined is considered eternal or atemporal like abstractions. For example number two. Functional programming is all about abstractions that don't come into existence and don't change it's properties or states. But you can not build anything usefull this way, you are just doing math. Complex aplication are complex because they try to simulate some part of real world. So we see that Simulation has some parts that should be defined:
 
-1. Objects or Entities (identifieable things)
-2. Existence (only possible in Time)
+1. Existence (only possible in Time)
+2. Objects or Entities (identifieable things)
 3. Change - Objects interact with each other (they act on some other objects or are being acted upon)
+
+They can not exist without each other. Entities require existence so they can live. Change is only possible in existence or in time. 
