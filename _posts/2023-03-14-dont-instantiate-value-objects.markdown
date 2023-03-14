@@ -16,7 +16,7 @@ The act of transitioning from abstraction to concrete is called instantiation.
 
 Ergo, concept of instance does not apply to values. Abstractions can be instatiated but at that point they become entity(particular thing). And entity has an identity.
 
-In real world we instantiate by identifying concrete thing we are talking about. How we identify? With time and space. I know you are not same as me because you are at location in space at this point in time than I am. There is also contextual identification like when I say "My aunt". Everyone can identify the person based on context. 
+In real world we instantiate by identifying concrete thing we are talking about. How we identify? With time and space. I know you are not same as me because you are at different location in space at this point in time than I am. There is also contextual identification like when I say "My aunt". Everyone can identify the person based on context. 
 
 In programming we first used memory location to identify objects. Now we use GUIDs.
 
