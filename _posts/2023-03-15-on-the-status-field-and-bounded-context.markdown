@@ -60,8 +60,8 @@ class Ticket {
 
 Each new class inside of microservice should have a loose reference to ticket with ticketId.
 
-Finance microservice
 ```java
+// Finance microservice
 class Payment {
     id: string;
     ticketId: string;
@@ -69,8 +69,9 @@ class Payment {
 }
 ```
 
-Shipping microservice
+
 ```java
+// Shipping microservice
 class Shipment {
     id: string;
     ticketId: string;
@@ -80,8 +81,8 @@ class Shipment {
 ```
 
 
-Submission microservice
 ```java
+// Submission microservice
 class Submission {
     id: string;
     ticketId: string;
