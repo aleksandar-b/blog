@@ -9,7 +9,7 @@ I want to talk about new code smell - I want to name it as multiple substatuses 
 
 You know that God classes that always have `status` or `state` field but also one or several more "subStatuses" like `paymentStatus`, `shippingStatus`, `submissionStatus`.
 
-```js
+```java
 class Ticket {
     id: string;
     customerId: string;
@@ -36,7 +36,7 @@ This is a code smell ***multiple substatuses*** and it is a clear sign that you 
 I want to propose this new practical solution to decomposing new bounded context: look at the ***multiple substatuses***. If it has more that one status field then it is a sign that ***each substatus should be in different bounded context***  with it's own complex process, workflow etc. You thus place it into it's own microservice to encapsulate change and allow independent deployability. Status field is very important when looking from outside, it is end result of some complex process that runs inside of that context.
 
 Our God class should be decomposed into several microservices: Shipping, Finance, Submission.
-```js
+```java
 class Ticket {
     id: string;
     customerId: string;
@@ -61,7 +61,7 @@ class Ticket {
 Each new class inside of microservice should have a loose reference to ticket with ticketId.
 
 Finance microservice
-```js
+```java
 class Payment {
     id: string;
     ticketId: string;
@@ -70,7 +70,7 @@ class Payment {
 ```
 
 Shipping microservice
-```js
+```java
 class Shipment {
     id: string;
     ticketId: string;
