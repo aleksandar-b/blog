@@ -36,7 +36,7 @@ This is a code smell ***multiple SubStatuses*** and it is a clear sign that you 
 - Different business goal
 ....etc
 
-I want to propose this new practical solution to decomposing new bounded context: look at the ***multiple subStatuses***. If it has more that one status field then it is a sign that it should be in different bounded context with it's own complex process, workflow etc. You then place it into it's own microservice to encapsulate change and allow independent deployability. Status field is very important, it is end result of some complex long running process that runs in the background.
+I want to propose this new practical solution to decomposing new bounded context: look at the ***multiple subStatuses***. If it has more that one status field then it is a sign that ***each substatus should be in different bounded*** context with it's own complex process, workflow etc. You thus place it into it's own microservice to encapsulate change and allow independent deployability. Status field is very important, it is end result of some complex long running process that runs in the background.
 
 Our god class should be decomposed into several microservices: Shipping, Finance, Submission.
 ```js
