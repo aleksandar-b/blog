@@ -9,14 +9,14 @@ I want to talk about new code smell - I want to name it as multiple substatuses 
 
 You know that God classes that always have `status` or `state` field but also one or several more "subStatuses" like `paymentStatus`, `shippingStatus`, `submissionStatus`.
 
-```java
+```js
 class Ticket {
     id: string;
     customerId: string;
     `status`: string;
     ...
     `shippingStatus`: string;
-    shippingAddress: string
+    shippingAddress: string;
     `paymentStatus`: string;
     paymentId: string;
     `submissionStatus`: string;
@@ -78,6 +78,7 @@ class Shipment {
     address: string
 }
 ```
+
 
 Submission microservice
 ```java
