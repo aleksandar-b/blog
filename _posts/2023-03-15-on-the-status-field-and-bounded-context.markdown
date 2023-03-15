@@ -80,7 +80,7 @@ class Shipment {
 ```
 
 Submission microservice
-```js
+```java
 class Submission {
     id: string;
     ticketId: string;
