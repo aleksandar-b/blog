@@ -12,17 +12,17 @@ I want to talk about new code smell - I would name it as SubStatuses code smell.
 You know that god classes that have `status` field but also one or several more "subStatuses" like `paymentStatus`, `shippingStatus`, `submissionStatus`. 
 
 
-```ts
+```js
 class Ticket {
     id: string;
     customerId: string;
+    `status`: string;
     ...
-    status: string;
-    shippingStatus: string;
+    `shippingStatus`: string;
     shippingAddress: string
-    paymentStatus: string;
+    `paymentStatus`: string;
     paymentId: string;
-    submissionStatus: string;
+    `submissionStatus`: string;
     submissionId: string;
     ...
 }
@@ -39,22 +39,22 @@ I want to propose this practical solution to decomposing new bounded context: lo
 
 
 Our god class should be decomposed into several microservices: Shipping, Finance, Submission.
-```ts
+```js
 class Ticket {
     id: string;
     customerId: string;
     ...
     status: string;
     
-    <Shipping context>
+    // Shipping context
     shippingStatus: string;
     shippingAddress: string;
     
-    <Finance context>
+    // Finance context
     paymentStatus: string;
     paymentId: string;
 
-    <Submission context>
+    // Submission context
     submissionStatus: string;
     submissionId: string;
     ...
@@ -62,3 +62,12 @@ class Ticket {
 ```
 
 Each new class inside of microservice should have a loose reference to ticket with ticketId.
+
+Finance microservice
+```
+class Payment {
+    id: string;
+    ticketId: string;
+    status: string;
+}
+```
