@@ -13,13 +13,13 @@ You may have come across so-called "God classes" in your code, which typically h
 class Ticket {
     id: string;
     customerId: string;
-    `status`: string;
+    `status: string;`
     ...
-    `shippingStatus`: string;
+    `shippingStatus: string;`
     shippingAddress: string;
-    `paymentStatus`: string;
+    `paymentStatus: string;`
     paymentId: string;
-    `submissionStatus`: string;
+    `submissionStatus: string;`
     submissionId: string;
     ...
 }
@@ -35,7 +35,7 @@ This is a code smell ***multiple substatuses*** and it is a clear sign that you 
 
 I want to propose this new practical solution for decomposing bounded contexts based on the presence of multiple substatuses. If a class has more than one status field, it is a sign that each substatus should be part of a different bounded context, complete with its own processes and workflows. You can then encapsulate these contexts within their own microservices, allowing for independent deployability and easier management. Status field is very important when looking from outside, it is end result of some complex process that runs inside of that context.
 
-Our God class should be decomposed into several microservices: Shipping, Finance, Submission.
+Our God class should be decomposed into several microservices: Delivery, Finance, Lodgement.
 ```java
 class Ticket {
     id: string;
@@ -43,7 +43,7 @@ class Ticket {
     ...
     status: string;
     
-    // Shipping context
+    // Delivery context
     shippingStatus: string;
     shippingAddress: string;
     
@@ -51,7 +51,7 @@ class Ticket {
     paymentStatus: string;
     paymentId: string;
 
-    // Submission context
+    // Lodgement context
     submissionStatus: string;
     submissionId: string;
     ...
@@ -60,8 +60,8 @@ class Ticket {
 
 Each new class inside of microservice should have a loose reference to ticket with ticketId.
 
+Finance microservice
 ```java
-// Finance microservice
 class Payment {
     id: string;
     ticketId: string;
@@ -70,8 +70,10 @@ class Payment {
 ```
 
 
+
+Delivery microservice
+
 ```java
-// Shipping microservice
 class Shipment {
     id: string;
     ticketId: string;
@@ -81,8 +83,10 @@ class Shipment {
 ```
 
 
-```java
-// Submission microservice
+
+Lodgement microservice
+
+```java 
 class Submission {
     id: string;
     ticketId: string;
