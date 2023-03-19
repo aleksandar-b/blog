@@ -25,7 +25,7 @@ class Ticket {
 }
 ```
 
-This is a code smell ***multiple substatuses*** and it is a clear sign that you are dealing here with ***multiple bounded contexts*** or "subjects" which have their own view of same object (perspective, dimension, point of view, focal point). Decomposing them is more of an art then science and there is no clear way how to do that. There are "heuristics" that can help you with that process like:
+This is a code smell ***multiple substatuses*** and it is a clear sign that you are dealing here with ***multiple bounded contexts*** or "subjects" which have their own view of same object (perspective, dimension). Decomposing them is more of an art then science and there is no clear way how to do that. There are "heuristics" that can help you with that process like:
 
 - Different vocabulary
 - Different teams
