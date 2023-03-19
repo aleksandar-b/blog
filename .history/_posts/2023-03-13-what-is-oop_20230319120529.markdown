@@ -32,15 +32,10 @@ What it means to simulate? Let's have a look at description of Uncle Bob Martin 
 >variables, and the nested functions became methods. This led inevitably to the discovery
 >of polymorphism through the disciplined use of function pointers
 
-Do you see what is the key part here? I will tell you - that part is "**exist** *long after the function returned*.". This was breakthrough. It means that objects can **live**, to have **existence**. In another words - you created simulation. To exists or to live means that passage of time does not anihiliate concrete identifieable object. Existence is only possible in time, even just for a split of a second. Existence has a lifecycle - something can come into existence, go out of existence and be changed during existence (state), while biggest changes being coming and going out of existence. Something that does not come into existence but can be defined is considered eternal or atemporal like abstractions. For example number two. Functional programming is all about abstractions that don't come into existence and don't change it's properties or states. But you can not build anything usefull this way, you are just doing math. Complex aplication are complex because they try to simulate some part of real world.
-
-So we see that Simulation has some parts that should be defined:
+Do you see what is the key part here? I will tell you - that part is "**exist** *long after the function returned*.". This was huge. It means that objects can **live**, to have **existance**. In another words - you created simulation. To exists or to live means that passage of time does not anihiliate concrete identifieable object. Existence is only possible in time, even just for a split of a second. Existence has a lifecycle - something can come into existence, go out of existence and be changed during existence (state), while biggest changes being coming and going out of existence. Something that does not come into existence but can be defined is considered eternal or atemporal like abstractions. For example number two. Functional programming is all about abstractions that don't come into existence and don't change it's properties or states. But you can not build anything usefull this way, you are just doing math. Complex aplication are complex because they try to simulate some part of real world. So we see that Simulation has some parts that should be defined:
 
 1. Existence (only possible in Time)
-2. Objects (identifieable things)
+2. Objects or Entities (identifieable things)
 3. Change - Objects interact with each other (they act on some other objects or are being acted upon)
 
-Those 3 things can not exist without each other.
-Objects require existence so they can live, otherwise they would be blury abstractions.
-But to exist is to have causal power or ability to change something or being changed by something.
-And there is no time or existence without some change.
+They can not exist without each other. Entities require existence so they can live. Change is only possible in existence or in time. 

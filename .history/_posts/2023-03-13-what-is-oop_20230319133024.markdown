@@ -41,6 +41,5 @@ So we see that Simulation has some parts that should be defined:
 3. Change - Objects interact with each other (they act on some other objects or are being acted upon)
 
 Those 3 things can not exist without each other.
-Objects require existence so they can live, otherwise they would be blury abstractions.
-But to exist is to have causal power or ability to change something or being changed by something.
-And there is no time or existence without some change.
+Entities require existence so they can live, otherwise they would be blury abstractions.
+But to exist is to have causal power or ability to change something and change is only possible in existence or in time. And there is no time without some change. 
