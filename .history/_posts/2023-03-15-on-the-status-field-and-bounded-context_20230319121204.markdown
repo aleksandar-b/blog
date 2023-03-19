@@ -7,7 +7,7 @@ category: posts
 
 I want to talk about new code smell - I want to name it as multiple substatuses code smell. Based on this I also want to propose a new practical solution for decomposing bounded context.
 
-You may have come across so-called "God classes" in your code, which typically have a status or state field along with several other "substatuses" like `paymentStatus`, `shippingStatus`, `submissionStatus`.
+You may have come across so-called "God classes" in your code, which typically have a status or state field along with several other "subStatuses" like `paymentStatus`, `shippingStatus`, `submissionStatus`.
 
 ```js
 class Ticket {
