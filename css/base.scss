@@ -75,6 +75,8 @@ a {
     ul {
       margin: 0;
       padding: 0;
+      list-style: circle;
+      color: rgb(61,61,61);
     }
     li {
       list-style: none;
@@ -126,7 +128,7 @@ a {
       background-color: #e0f5fe;
 	    color: #218eb2;
       border-radius: 3px;
-      padding: 2px 3px;
+      padding: 3px 4px;
     }
   }
   img {
@@ -184,6 +186,8 @@ a {
     ul {
       margin: 0;
       padding: 0;
+      list-style: circle;
+      color: rgb(61,61,61);
     }
     li {
       font-size: 13px;
