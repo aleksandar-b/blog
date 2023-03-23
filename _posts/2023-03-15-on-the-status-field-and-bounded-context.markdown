@@ -12,16 +12,14 @@ You may have come across so-called "God classes" in your code, which typically h
 ```js
 class Ticket {
     id: string;
-    customerId: string;
     `status: string;`
-    ...
+    customerId: string;
     `shippingStatus: string;`
     shippingAddress: string;
     `paymentStatus: string;`
     paymentId: string;
     `submissionStatus: string;`
     submissionId: string;
-    ...
 }
 ```
 
