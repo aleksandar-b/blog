@@ -6,21 +6,22 @@ category: posts
 ---
 
 > There is no object without a subject - Arthur Schopenhauer
+
 > If a tree falls in a forest and no one is around to hear it, does it make a sound? - Unknown author
 
 
 
 Subject-oriented programming challenges the traditional object-oriented programming (OOP) paradigm by recognizing the importance of subjects in the software development process. As Arthur Schopenhauer once said, an object cannot be understood without considering the subject that perceives it.
 
-Shift in perspective
+### Shift in perspective
 In subject oriented programing, the classical object model is, in many respects, the model of objects **seen by any one subject**.
 
 In contrast to the OOP, which emphasizes the object's role in software development, subject-oriented programming emphasizes the subject's perspective. OOP has often neglegted Subjects, resulting in applications with a single "God class" that attempts to represent every possible viewpoint. This approach leads to complicated and confusing code. 
 
-Domain-Driven Design and Microservices
-To address this issue, domain-driven design (DDD) emphasizes bounded contexts, representing specific subjects' perspectives on the domain. Microservices, which act as subject containers, further reinforce this idea. Rather than calling these contexts "bounded contexts," it may be more accurate to refer to them as "Subjects."
+### Domain-Driven Design and Microservices
+To address this issue, domain-driven design (DDD) emphasizes bounded contexts, representing specific subjects' perspectives on the domain. Microservices, which act as **subject containers**, further reinforce this idea. Rather than calling these contexts "bounded contexts," it may be more accurate to refer to them as "Subjects."
 
-Subject Decomposition
+### Subject Decomposition
 Subject decomposition is the process of breaking down a complex problem into smaller, more manageable pieces. While this process is commonly referred to as "functional decomposition" or "domain decomposition" given the significance of subjects in shaping our understanding of objects, it may be more accurate to refer to it as "subject decomposition." This approach involves identifying the different subjects within a system and their unique perspectives on the objects they interact with.
 The technology must recognize more directly that a multiplicity of subjective views delocalizes the concept of object.
 
