@@ -26,7 +26,7 @@ Subject can be individual or group of people with a common goal. In economy ther
 
 ### Subject Decomposition
 Subject decomposition is the process of breaking down a complex service into smaller, more manageable services. While this process is commonly referred to as "functional decomposition" or "domain decomposition" given the significance of subjects in shaping our understanding of objects, it may be more accurate to refer to it as "subject decomposition." This approach involves identifying the different subjects within a system and their unique perspectives on the objects they interact with.
-We must recognize that a multiplicity of subjective views delocalizes the concept of object.There is no "global state of the object", each perspective can be separated in space (different machines) and time ()
+We must recognize that a multiplicity of subjective views delocalizes the concept of object.There is no "global state of the object", each perspective can be separated in space and time.
 
 
 ![SOP](https://raw.githubusercontent.com/aleksandar-b/blog/gh-pages/_posts/sop.png)
