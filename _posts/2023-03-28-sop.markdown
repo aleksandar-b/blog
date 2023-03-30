@@ -11,22 +11,22 @@ category: posts
 
 
 
-[Subject-oriented programming](https://dl.acm.org/doi/pdf/10.1145/165854.165932) challenges the traditional object-oriented programming (OOP) paradigm by recognizing the importance of subjects in the software development process. As Arthur Schopenhauer once said, an object cannot be understood without considering the subject that perceives it.
+[Subject-oriented programming](https://dl.acm.org/doi/pdf/10.1145/165854.165932) challenges the traditional object-oriented programming (OOP) paradigm by recognizing the importance of subjects in the software development process. As Arthur Schopenhauer once said, an object cannot be understood without considering the subject that perceives it. And every subject has different subjective view of the object.
 
 ### Shift in perspective
 In subject oriented programing, the classical object model is, in many respects, the model of objects **seen by any one subject**.
 
-In contrast to the OOP, which emphasizes the object's role in software development, subject-oriented programming emphasizes the subject's perspective. OOP has often neglegted Subjects, that every object resulting in applications with a single "God class" that attempts to represent every possible viewpoint. This approach leads to complicated and confusing code. 
+In contrast to the OOP, which emphasizes the object's role in software development, subject-oriented programming emphasizes the subject's perspective of the object. OOP has often neglegted Subjects, resulting in applications with a single "God class" that attempts to represent every possible viewpoint. This approach leads to complicated and confusing code.
 
 ### Domain-Driven Design and Microservices
-To address this issue, domain-driven design (DDD) emphasizes bounded contexts, representing specific subjects' perspectives on the domain. Microservices, which act as **subject containers**, further reinforce this idea. Rather than calling these contexts "bounded contexts," we should consider calling them "Subjects.".
+To address this issue, domain-driven design (DDD) emphasizes bounded contexts, representing specific subjects' perspectives on the domain. Microservices, which act as **subject containers**, further reinforce this idea. Rather than calling these contexts "bounded contexts," we should consider calling them "Subjects".
 
 ### Division of labor inside of a company
-Subject can be individual or group of people with a common goal. In economy there is this notion of division of labor where groups specialize in some small aspect of the problem so they could solve it more efficiently. In large enterprises those groups are often called departmens. So, we should consider a subject as an entity, inside of a company, that has some task to solve. In order to do that it uses objects as host of helpers that form a community and where objects are seen from a very narrow and focused viewpoint in order to solve a problem at hand. 
+Subject can be individual or group of people with a common goal. In economy there is this notion of division of labor where groups specialize in some small aspect of the problem so they could solve it more efficiently. In large enterprises those groups are often called departments. So, we should consider a subject as an entity, inside of a company, that has some task to solve. In order to do that it uses objects as host of helpers that form a community and where objects are seen from a very narrow and focused viewpoint in order to solve a problem at hand. 
 
 ### Subject Decomposition
 Subject decomposition is the process of breaking down a complex service into smaller, more manageable services. While this process is commonly referred to as "functional decomposition" or "domain decomposition" given the significance of subjects in shaping our understanding of objects, it may be more accurate to refer to it as "subject decomposition." This approach involves identifying the different subjects within a system and their unique perspectives on the objects they interact with.
-The technology must recognize more directly that a multiplicity of subjective views delocalizes the concept of object.
+We must recognize that a multiplicity of subjective views delocalizes the concept of object.There is no "global state of the object", each perspective can be separated in space (different machines) and time ()
 
 
 ![SOP](https://raw.githubusercontent.com/aleksandar-b/blog/gh-pages/_posts/sop.png)
