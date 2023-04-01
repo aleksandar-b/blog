@@ -1,0 +1,57 @@
+---
+published: true
+layout: post
+title: On the Understanding
+category: posts
+---
+
+On the Understanding
+
+There is a lot of discussion lately about the AGI. It seems like it really is generaly inteligent. But two main problems with AGI are cited: 
+
+1. It can not understand
+2. It can not create any new knowledge
+
+I will show that those two things are closely related. They are described by Arthur Schopenhauer who wrote extensively about faculty of Understanding 200 years ago. I will also try to explain you how Understanding differs from abstract Reasoning.
+
+What is Understanding?
+
+Shortly, Understanding is a knowledge of cause and effect.
+
+> Understanding is the same in all animals and in all men; it has everywhere the same simple form; knowledge of causality, transition from effect to cause, and from cause to effect, nothing more; - Arthur Schopenhauer
+
+> These philosophies are just tricky way to ***compute consequences quickly. Philosophy which is sometimes called Understanding*** of the law is simply a way that the person holds law in his mind so ***he gets quickly to the consequences***. - Richard Feynman
+
+
+Difference between Understanding and Reasoning
+
+Schopenhauer makes clear distintion between Understanding and Reasoning. Understanding is the thing we share with our brothers animals. It was created  with the development of first sense so we could create perception from raw senses. As he puts it - this whole world ergo our whole knowledge or perception of it started when first creature opened his eye. Before that it was nothing.
+
+Later we developed Reason - ability to make abstract concepts out of perception. Although imperfect because it consists of removing all that is non-essential it allowed us to store it somewhere for the future and pass it to others via language. That ability to think in abstract conceptions separated us from animals - and because of that we have what animals don't:
+
+1. Language - which is just a way to exchange abstract concetions with others
+2. Laugther - Laugh is just a insight that abstract concept does not match perception, or that perception does not match abstract concept
+3. High scale cooperations like State, Enterprises that involves long term planning.
+4. Another motive - abstract motive
+5. Live in the Future, not just in present
+
+Perception > Conception
+
+You may come to conclusion that Reasoning is better than Understanding because it is more "human" but Schopenhauer is strongly against this. He thought that only knowledge of perception, of immediate Understanding of causal relation of things is real knowledge and that other knowledge of abstract reasoning are just shadows. He calls Reasoning with abstract notions secondary quality, feminime, compares it with paper bank notes contrary to perception which is real gold. 
+
+
+> New insight, on the contrary, can only be obtained by the help of the faculty of judgment, from perception, which alone is complete and rich knowledge.
+
+![SOP](https://raw.githubusercontent.com/aleksandar-b/blog/gh-pages/_posts/Fnf_kHMXwBcKHi7.jpeg)
+
+![SOP](https://raw.githubusercontent.com/aleksandar-b/blog/gh-pages/_posts/Fnf_o7xXwAkI1OC.jpeg)
+
+![SOP](https://raw.githubusercontent.com/aleksandar-b/blog/gh-pages/_posts//Fnf_o7zXwAwr4XS.jpeg)
+
+![SOP](https://raw.githubusercontent.com/aleksandar-b/blog/gh-pages/_posts/FsVOzO8WIAAs3lZ.png)
+
+
+
+
+
+

@@ -40,15 +40,16 @@ Perception > Conception
 You may come to conclusion that Reasoning is better than Understanding because it is more "human" but Schopenhauer is strongly against this. He thought that only knowledge of perception, of immediate Understanding of causal relation of things is real knowledge and that other knowledge of abstract reasoning are just shadows. He calls Reasoning with abstract notions secondary ideas, feminime, compares it with bank notes contrary to perception which are real cash. 
 
 
-Why only Understanding(perception) and not Reasoning(conception) can create new knowledge?
+Why only Understanding can create any new knowledge?
  
->The great value of conceptions lies in the fact that by means of them the  
-original material of knowledge is more easily handled, surveyed,  
-and arranged. But although many kinds of logical and dialectical  
-operations are possible with them, yet no entirely original and new  
-knowledge will result from these; that is to say, no knowledge  
-whose material neither lay already in perception nor was drawn  
-from self-consciousness.  
+>The great
+value of conceptions lies in the fact that by means of them the
+original material of knowledge is more easily handled, surveyed,
+and arranged. But although many kinds of logical and dialectical
+operations are possible with them, yet no entirely original and new
+knowledge will result from these; that is to say, no knowledge
+whose material neither lay already in perception nor was drawn
+from self-consciousness 
 
 
 > Books impart only secondary ideas. Mere conceptions of a thing without perception  
@@ -93,7 +94,6 @@ all.
 
 > New insight, on the contrary, can only be obtained by the help of the faculty of judgment, from perception, which alone is complete and rich knowledge.
 
-Here are some more quotes of Arthur Schopenhauer.
 ![SOP](https://raw.githubusercontent.com/aleksandar-b/blog/gh-pages/_posts/Fnf_kHMXwBcKHi7.jpeg)
 
 ![SOP](https://raw.githubusercontent.com/aleksandar-b/blog/gh-pages/_posts/Fnf_o7xXwAkI1OC.jpeg)

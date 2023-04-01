@@ -1,0 +1,100 @@
+---
+published: true
+layout: post
+title: On the Understanding
+category: posts
+---
+
+On the Understanding
+
+There is a lot of discussion lately about the AGI. It seems like it really is generaly inteligent. But two main problems with AGI are cited: 
+
+1. It can not understand
+2. It can not create any new knowledge
+
+I will show that those two things are closely related. They are described by Arthur Schopenhauer who wrote extensively about faculty of Understanding 200 years ago. I will also try to explain you how Understanding differs from abstract Reasoning.
+
+What is Understanding?
+
+Shortly, Understanding is a knowledge of cause and effect.
+
+> Understanding is the same in all animals and in all men; it has everywhere the same simple form; knowledge of causality, transition from effect to cause, and from cause to effect, nothing more; - Arthur Schopenhauer
+
+> These philosophies are just tricky way to ***compute consequences quickly. Philosophy which is sometimes called Understanding*** of the law is simply a way that the person holds law in his mind so ***he gets quickly to the consequences***. - Richard Feynman
+
+
+Difference between Understanding and Reasoning
+
+Schopenhauer makes clear distintion between Understanding and Reasoning. Understanding is the thing we share with our brothers animals. It was created  with the development of first sense so we could create perception from raw senses. As he puts it - this whole world ergo our whole knowledge or perception of it started when first creature opened his eye. Before that it was nothing.
+
+Later we developed Reason - ability to make abstract concepts out of perception. Although imperfect because it consists of removing all that is non-essential it allowed us to store it somewhere for the future and pass it to others via language. That ability to think in abstract conceptions separated us from animals - and because of that we have what animals don't:
+
+1. Language - which is just a way to exchange abstract concetions with others
+2. Laugther - Laugh is just a insight that abstract concept does not match perception, or that perception does not match abstract concept
+3. High scale cooperations like State, Enterprises that involves long term planning.
+4. Another motive - abstract motive
+5. Live in the Future, not just in present
+
+Perception > Conception
+
+You may come to conclusion that Reasoning is better than Understanding because it is more "human" but Schopenhauer is strongly against this. He thought that only knowledge of perception, of immediate Understanding of causal relation of things is real knowledge and that other knowledge of abstract reasoning are just shadows. He calls Reasoning with abstract notions secondary quality, feminime, compares it with paper bank notes contrary to perception which is real gold. 
+
+
+Why only Understanding can create any new knowledge?
+
+>  Books impart only secondary ideas. Mere conceptions of a thing without perception
+give only a general knowledge of it. We only have a thorough
+understanding of things and their relations so far as we are able
+[245] to represent them to ourselves in pure, distinct perceptions,
+without the aid of words. To explain words by words, to compare
+concepts with concepts, in which most philosophising consists,
+is a trivial shifting about of the concept-spheres in order to see
+which goes into the other and which does not. At the best we
+can in this way only arrive at conclusions; but even conclusions
+give no really new knowledge, but only show us all that lay
+in the knowledge we already possessed, and what part of it
+perhaps might be applicable to the particular case. On the other
+hand, to perceive, to allow the things themselves to speak to
+us, to apprehend new relations of them, and then to take up
+and deposit all this in conceptions, in order to possess it with
+certainty—that gives new knowledge. But, while almost every
+one is capable of comparing conceptions with conceptions, to
+compare conceptions with perceptions is a gift of the select few.
+It is the condition, according to the degree of its perfection, of
+wit, judgment, ingenuity, genius. The former faculty, on the
+contrary, results in little more than possibly rational reflections.
+The inmost kernel of all genuine and actual knowledge is a
+perception; and every new truth is the profit or gain yielded by a
+perception. All original thinking takes place in images, and this
+is why imagination is so necessary an instrument of thought, and
+minds that lack imagination will never accomplish much, unless
+it be in mathematics. On the other hand, merely abstract thoughts,
+which have no kernel of perception, are like cloud-structures,
+without reality. Even writing and speaking, whether didactic or
+poetical, has for its final aim to guide the reader to the same
+concrete knowledge from which the author started; if it has not
+this aim it is bad. This is why the contemplation and observing
+of every real thing, as soon as it presents something new to the
+observer, is more instructive than any reading or hearing. For
+indeed, if we go to the bottom of the matter, all truth and wisdom,
+nay, the ultimate secret of things, is contained in each real object,
+yet certainly only in concreto, just as gold lies hidden in the ore; [246]
+the difficulty is to extract it. From a book, on the contrary, at the
+best we only receive the truth at second hand, and oftener not at
+all.
+
+> New insight, on the contrary, can only be obtained by the help of the faculty of judgment, from perception, which alone is complete and rich knowledge.
+
+![SOP](https://raw.githubusercontent.com/aleksandar-b/blog/gh-pages/_posts/Fnf_kHMXwBcKHi7.jpeg)
+
+![SOP](https://raw.githubusercontent.com/aleksandar-b/blog/gh-pages/_posts/Fnf_o7xXwAkI1OC.jpeg)
+
+![SOP](https://raw.githubusercontent.com/aleksandar-b/blog/gh-pages/_posts//Fnf_o7zXwAwr4XS.jpeg)
+
+![SOP](https://raw.githubusercontent.com/aleksandar-b/blog/gh-pages/_posts/FsVOzO8WIAAs3lZ.png)
+
+
+
+
+
+
