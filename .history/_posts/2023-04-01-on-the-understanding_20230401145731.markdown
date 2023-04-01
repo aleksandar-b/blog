@@ -16,16 +16,16 @@ I will show that those two things are closely related. They are described by Art
 
 What is Understanding?
 
-Shortly, Understanding is a knowledge of cause and effect. Understanding creates our Perception from raw senses. It has it's own "software" that does that and it consists of 3 components - Time, Space and Causality. Thus the whole possibility of experience is conditioned by the conception of Causality.
+Shortly, Understanding is a knowledge of cause and effect. Understanding creates our Perception from raw senses. It has it's own "software" that does that and it consists of 3 components - Time, Space and Causality.
 
 > Understanding is the same in all animals and in all men; it has everywhere the same simple form; knowledge of causality, transition from effect to cause, and from cause to effect, nothing more; - Arthur Schopenhauer
 
-> These philosophies are just tricky way to ***compute consequences quickly. Philosophy which is sometimes called Understanding*** of the law is simply a way that the person holds law in his mind so ***he gets quickly to the consequences***. - Richard Feynman
+> These philosophies are just tricky way to ***compute consequences quickly***. Philosophy which is sometimes called ***Understanding*** of the law is simply a way that the person holds law in his mind so it ***gets quickly to the consequences***. - Richard Feynman
 
 
 Difference between Understanding and Reasoning
 
-Schopenhauer sharply distinquishes between Understanding and Reasoning. Understanding is the thing we share with our brothers animals. It was created when first sense was developed so that we could explain things. As he puts it - this whole world ergo our whole knowledge or perception of it started when first creature opened his eye. Before that it was nothing.
+Schopenhauer sharply distinquishes between Understanding and Reasoning. Understanding is the thing we share with our brothers animals. It was created when first sense was developed so that we could explain things. As he puts it - this whole world ergo our whole knowledge or Perception of it started when first creature opened his eye. Before that it was nothing. We were just plants with a stimuli. When knowledge was created through Understanding interpreting raw senses then we got something call Motive - and we started to move in search of that motive. We where not static plants anymore.
 
 Later we developed Reason - ability to make abstract concepts out of perception. Although imperfect because it consists of removing all that is non-essential it allowed us to store it somewhere for the future and pass it to others via language. That ability to think in abstract conceptions separated us from animals - and because of that we have what animals don't:
 
@@ -37,9 +37,7 @@ Later we developed Reason - ability to make abstract concepts out of perception.
 
 Perception > Conception
 
-You may come to conclusion that Reasoning is better than Understanding because it is more "human" but Schopenhauer is strongly against this. He thought that only knowledge of perception, of immediate Understanding of causal relation of things is real knowledge and that other knowledge of abstract reasoning are just shadows. He calls Reasoning with abstract notions secondary quality, feminime, compares it with paper bank notes contrary to perception which is real gold. 
-
-> New insight, on the contrary, can only be obtained by the help of the faculty of judgment, from perception, which alone is complete and rich knowledge.
+You may come to conclusion that Reasoning is better than Understanding because it is more "human" but Schopenhauer is strongly against this. He thought that only knowledge of perception, of immediate Understanding of causal relation of things is real knowledge and that other knowledge of abstract reasoning are just shadows. He calls Reasoning with abstract notions secondary quality, feminime characteristic in a sense that it can only receive  - it can not create but only can give you what it already has. Or jugling with abstract notions with deductions and inductions can not produce anything new.
 
 ![SOP](https://raw.githubusercontent.com/aleksandar-b/blog/gh-pages/_posts/Fnf_kHMXwBcKHi7.jpeg)
 
