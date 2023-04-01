@@ -14,7 +14,7 @@ There is a lot of discussion lately about the AGI. It seems like it really is ge
 
 I will show you that those two things are closely related. They are described by Arthur Schopenhauer who wrote extensively about faculty of Understanding 200 years ago. I will also try to explain you how Understanding differs from abstract Reasoning.
 
-#### What is Understanding?
+What is Understanding?
 
 Shortly, Understanding is a knowledge of cause and effect.
 
@@ -23,7 +23,7 @@ Shortly, Understanding is a knowledge of cause and effect.
 > These philosophies are just tricky way to ***compute consequences quickly. Philosophy which is sometimes called Understanding*** of the law is simply a way that the person holds law in his mind so ***he gets quickly to the consequences***. - Richard Feynman
 
 
-#### Difference between Understanding and Reasoning
+Difference between Understanding and Reasoning
 
 Schopenhauer makes clear distintion between Understanding and Reasoning. Understanding is the thing we share with our brothers animals. It was created  with the development of first sense so we could create perceptions from raw senses. As he puts it - this whole world ergo our whole knowledge or perception of it started when first creature opened his eye. Before that it was nothing.
 
@@ -35,15 +35,16 @@ Later we developed Reason - ability to make abstract concepts out of perception.
 4. Another motive - abstract motive
 5. Live in the Future, not just in present
 
-#### Perception > Conception
+Perception > Conception
 
 You may come to conclusion that Reasoning is better than Understanding because it is more "human" but Schopenhauer is strongly against this. He thought that only knowledge of perception, of immediate Understanding of causal relation of things is real knowledge and that other knowledge of abstract reasoning are just second hand ideas. He calls Reasoning with abstract notions secondary ideas, feminime, compares it with bank notes, contrary to perception which are real cash. 
 
 
-#### Why only Understanding(perception) and not Reasoning(conception) can create new knowledge?
+Why only Understanding(perception) and not Reasoning(conception) can create new knowledge?
 
-19 century Germany brought to light particular profile of people which Schopenhaer called phylosophasters - They were known for playing with the words, combining abstractions from books they read in hope to find something new. 
-> There finally results from this a mere juggling with words, of which the most shocking example is afforded us by the mind-destroying Hegelism, in which it is carried to the extent of pure nonsense.
+19 century Germany brought to light particular profile of people which Schopenhaer called phylosophasters - They were known playing with the words, combining abstractions from books they read in hope to find something new. There finally results from this a
+
+mere juggling with words, of which the most shocking example is afforded us by the mind-destroying Hegelism, in which it is carried to the extent of pure nonsense.
  
  Although conceptions are usefull becose they bring under one concept innumerable many things, they still can not create nothing new, because everything is already present in premises.
  
@@ -55,7 +56,6 @@ knowledge will result from these***; that is to say, no knowledge
 whose material neither lay already in perception nor was drawn  
 from self-consciousness.  
 
-More on distinction between Understanding and Reasoning:
 
 > Books impart only secondary ideas. Mere conceptions of a thing without perception
 give only a general knowledge of it. We only have a thorough understanding of things and their relations so far as we are able to represent them to   ourselves in pure, distinct perceptions,  
