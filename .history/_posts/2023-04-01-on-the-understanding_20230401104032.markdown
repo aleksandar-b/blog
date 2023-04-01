@@ -1,0 +1,11 @@
+---
+published: true
+layout: post
+title: On the Understanding
+category: posts
+---
+
+On the Understanding
+
+We see lot of discussion about AI lately. Two main problems arise  
+

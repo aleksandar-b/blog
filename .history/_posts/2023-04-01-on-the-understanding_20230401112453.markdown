@@ -1,0 +1,30 @@
+---
+published: true
+layout: post
+title: On the Understanding
+category: posts
+---
+
+On the Understanding
+
+We see lot of discussion about AI lately. Two main problems are cited: 
+
+1. It does not understand
+2. It can not create any new knowledge
+
+I will show you why does two things are closely related and they are noticed by Arthur Schopenhauer who wrote extensively about faculty of Understanding 200 years ago.
+
+What is Understanding?
+
+Shortly, Understanding is a knowledge of cause and effect taken directly from perception. Actually Understanding creates our perception from raw senses by transforming them with it's own "software" and his 3 components - Time, Space and Causality.
+
+Richard Feynman:
+>These philosophies are just tricky way to ***compute consequences quickly***. Philosophy which is somethimes called ***Understanding*** of the law is simply a way that the person holds law in his mind so it ***gets quickly to the consequences***.
+
+
+Difference between Understanding and Reasoning
+
+Why it can not create any new knowledge
+
+
+

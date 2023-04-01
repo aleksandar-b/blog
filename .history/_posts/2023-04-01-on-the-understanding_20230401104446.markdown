@@ -1,0 +1,25 @@
+---
+published: true
+layout: post
+title: On the Understanding
+category: posts
+---
+
+On the Understanding
+
+We see lot of discussion about AI lately. Two main problems are cited: 
+
+1. It does not understand
+2. It can not create any new knowledge
+
+I will show you why does two things are closely related and they are noticed by Arthur Schopenhauer who wrote about Understanding 200 years ago .
+
+
+What is understanding?
+
+Difference between Understanding and Reason
+
+Why it can not create any new knowledge
+
+
+

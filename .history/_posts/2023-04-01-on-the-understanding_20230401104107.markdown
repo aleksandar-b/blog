@@ -1,0 +1,16 @@
+---
+published: true
+layout: post
+title: On the Understanding
+category: posts
+---
+
+On the Understanding
+
+We see lot of discussion about AI lately. Two main problems are cited: 
+
+1. It does not understand
+2. It can not create any new 
+
+
+
