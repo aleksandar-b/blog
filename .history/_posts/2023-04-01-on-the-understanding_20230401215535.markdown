@@ -52,7 +52,7 @@ from self-consciousness.
 
 
 > Books impart only secondary ideas. Mere conceptions of a thing without perception
-give only a general knowledge of it. We only have a thorough understanding of things and their relations so far as we are able to represent them to   ourselves in pure, distinct perceptions,  
+give only a general knowledge of it. We only have a thorough understanding of things and their relations so far as we are able to represent them to ourselves in pure, distinct perceptions,  
 without the aid of words. To explain words by words, to compare  
 concepts with concepts, in which most philosophising consists,  
 is a trivial shifting about of the concept-spheres in order to see  
