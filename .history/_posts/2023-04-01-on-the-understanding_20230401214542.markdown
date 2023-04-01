@@ -37,7 +37,7 @@ Later we developed Reason - ability to make abstract concepts out of perception.
 
 Perception > Conception
 
-You may come to conclusion that Reasoning is better than Understanding because it is more "human" but Schopenhauer is strongly against this. He thought that only knowledge of perception, of immediate Understanding of causal relation of things is real knowledge and that other knowledge of abstract reasoning are just second hand ideas. He calls Reasoning with abstract notions secondary ideas, feminime, compares it with bank notes, contrary to perception which are real cash. 
+You may come to conclusion that Reasoning is better than Understanding because it is more "human" but Schopenhauer is strongly against this. He thought that only knowledge of perception, of immediate Understanding of causal relation of things is real knowledge and that other knowledge of abstract reasoning are just shadows. He calls Reasoning with abstract notions secondary ideas, feminime, compares it with bank notes contrary to perception which are real cash. 
 
 
 Why only Understanding(perception) and not Reasoning(conception) can create new knowledge?
@@ -65,7 +65,7 @@ perhaps might be applicable to the particular case. On the other
 hand, to perceive, to allow the things themselves to speak to  
 us, to apprehend new relations of them, and then to take up  
 and deposit all this in conceptions, in order to possess it with  
-certainty—***that gives new knowledge***. But, while almost every  
+certainty—***that gives new knowledge. But, while almost every  
 one is capable of comparing conceptions with conceptions, to  
 compare conceptions with perceptions is a gift of the select few.  
 It is the condition, according to the degree of its perfection, of  

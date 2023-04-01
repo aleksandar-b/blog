@@ -25,7 +25,7 @@ Shortly, Understanding is a knowledge of cause and effect.
 
 Difference between Understanding and Reasoning
 
-Schopenhauer makes clear distintion between Understanding and Reasoning. Understanding is the thing we share with our brothers animals. It was created  with the development of first sense so we could create perceptions from raw senses. As he puts it - this whole world ergo our whole knowledge or perception of it started when first creature opened his eye. Before that it was nothing.
+Schopenhauer makes clear distintion between Understanding and Reasoning. Understanding is the thing we share with our brothers animals. It was created  with the development of first sense so we could create perception from raw senses. As he puts it - this whole world ergo our whole knowledge or perception of it started when first creature opened his eye. Before that it was nothing.
 
 Later we developed Reason - ability to make abstract concepts out of perception. Although imperfect because it consists of removing all that is non-essential it allowed us to store it somewhere for the future and pass it to others via language. That ability to think in abstract conceptions separated us from animals - and because of that we have what animals don't:
 
@@ -37,12 +37,12 @@ Later we developed Reason - ability to make abstract concepts out of perception.
 
 Perception > Conception
 
-You may come to conclusion that Reasoning is better than Understanding because it is more "human" but Schopenhauer is strongly against this. He thought that only knowledge of perception, of immediate Understanding of causal relation of things is real knowledge and that other knowledge of abstract reasoning are just second hand ideas. He calls Reasoning with abstract notions secondary ideas, feminime, compares it with bank notes, contrary to perception which are real cash. 
+You may come to conclusion that Reasoning is better than Understanding because it is more "human" but Schopenhauer is strongly against this. He thought that only knowledge of perception, of immediate Understanding of causal relation of things is real knowledge and that other knowledge of abstract reasoning are just shadows. He calls Reasoning with abstract notions secondary ideas, feminime, compares it with bank notes contrary to perception which are real cash. 
 
 
 Why only Understanding(perception) and not Reasoning(conception) can create new knowledge?
  
->The great value of conceptions lies in the fact that by means of them the
+>The great value of conceptions lies in the fact that by means of them the  
 original material of knowledge is more easily handled, surveyed,  
 and arranged. But although many kinds of logical and dialectical  
 operations are possible with them, yet no entirely original and new  
@@ -51,7 +51,7 @@ whose material neither lay already in perception nor was drawn
 from self-consciousness.  
 
 
-> Books impart only secondary ideas. Mere conceptions of a thing without perception
+> Books impart only secondary ideas. Mere conceptions of a thing without perception  
 give only a general knowledge of it. We only have a thorough  
 understanding of things and their relations so far as we are able to represent them to ourselves in pure, distinct perceptions,  
 without the aid of words. To explain words by words, to compare  
@@ -59,13 +59,13 @@ concepts with concepts, in which most philosophising consists,
 is a trivial shifting about of the concept-spheres in order to see  
 which goes into the other and which does not. At the best we  
 can in this way only arrive at conclusions; but even conclusions  
-***give no really new knowledge***, but only show us all that lay  
+give no really new knowledge, but only show us all that lay  
 in the knowledge we already possessed, and what part of it  
 perhaps might be applicable to the particular case. On the other  
 hand, to perceive, to allow the things themselves to speak to  
 us, to apprehend new relations of them, and then to take up  
 and deposit all this in conceptions, in order to possess it with  
-certainty—***that gives new knowledge***. But, while almost every  
+certainty—that gives new knowledge. But, while almost every  
 one is capable of comparing conceptions with conceptions, to  
 compare conceptions with perceptions is a gift of the select few.  
 It is the condition, according to the degree of its perfection, of  
