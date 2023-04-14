@@ -25,7 +25,7 @@ Shortly, Understanding is a knowledge of cause and effect.
 
 #### Difference between Understanding and Reasoning
 
-Schopenhauer makes clear distintion between Understanding and Reasoning. Understanding is the thing we share with our brothers animals. It was created  with the development of first sense so we could create perceptions from raw senses. As he puts it - this whole world ergo our whole knowledge or perception of it started when first creature opened his eye. Before that it was nothing.
+Schopenhauer makes clear distintion between Understanding and Reasoning. Understanding is the thing we share with our brothers animals. It was created  with the development of first sense so we could create perceptions from raw senses. It consists of inferring unknown causes for the given effect where effect is our sense activation and cause is some external object. This is called direct Understanding, common to simple animals, whether indirect Understanding is more advanced and is common for humans where we try to guess causal relations between external object themselves(science).
 
 Later we developed Reason - ability to make abstract concepts out of perception. Although imperfect because it consists of removing all that is non-essential it allowed us to store it somewhere for the future and pass it to others via language. That ability to think in abstract conceptions separated us from animals - and because of that we have what animals don't:
 
