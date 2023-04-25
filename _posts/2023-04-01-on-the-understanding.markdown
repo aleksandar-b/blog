@@ -25,79 +25,37 @@ Shortly, Understanding is a knowledge of cause and effect.
 
 #### Difference between Understanding and Reasoning
 
-Schopenhauer makes clear distintion between Understanding and Reasoning. Understanding is the thing we share with our brothers animals. It was created  with the development of first sense so we could create perceptions from raw senses. It consists of inferring unknown causes for the given effect where effect is our sense activation and cause is some external object. This is called direct Understanding, common to simple animals, whether indirect Understanding is more advanced and is common for humans where we try to infer causal relations between external object themselves(science). This whole process creates our perception by inferring causes for given effect with the help of Time and Space.
+Schopenhauer makes clear distintion between Understanding and Reasoning. Understanding is the thing we share with our brothers animals. It was created  with the development of first sense so we could create perceptions from raw senses. It consists of **inferring unknown causes for the given effect** where effect is our sense activation and cause is some external object. This is called direct Understanding, common to simple animals, whether indirect Understanding is more advanced and is common for humans where we try to infer causal relations between external object themselves(science). This whole process creates our perception by inferring causes for given effect with the help of Time and Space.
 
-Later we developed Reason - ability to make abstract concepts out of perception. Although imperfect because it consists of removing all that is non-essential it allowed us to store it somewhere for the future and pass it to others via language. That ability to think in abstract conceptions separated us from animals - and because of that we have what animals don't:
-
-1. Language - which is just a way to exchange abstract concetions with others
-2. Laugther - Laugh is just a insight that abstract concept does not match perception, or that perception does not match abstract concept
-3. High scale cooperations like State, Enterprises that involves long term planning.
-4. Another motive - abstract motive
-5. Live in the Future, not just in present
+Later we developed Reason - ability to make abstract concepts out of perception. Although imperfect because it consists of removing all that is non-essential it allowed us to store it somewhere for the future and pass it to others via language. That ability to think in abstract conceptions separated us from animals - and because of that we have what animals don't - things like language, laughter, live in the past and future etc.
 
 #### Perception > Conception
 
-You may come to conclusion that Reasoning is better than Understanding because it is more "human" but Schopenhauer is strongly against this. He thought that only knowledge of perception, of immediate Understanding of causal relation of things is real knowledge and that other knowledge of abstract reasoning are just second hand ideas. He calls Reasoning with abstract notions secondary ideas, feminime, compares it with bank notes, contrary to perception which are real cash. 
+You may come to conclusion that Reasoning is better than Understanding because it is more "human" but Schopenhauer is strongly against this. He thought that only knowledge of perception, of immediate Understanding of causal relation of things is real knowledge and that other knowledge of abstract reasoning are just second hand ideas. 
 
 
-#### Why only Understanding(perception) and not Reasoning(conception) can create new knowledge?
+#### All new knowledge is the work of Understanding
 
-19 century Germany brought to light particular profile of people which Schopenhaer called phylosophasters - They were known for playing with the words, combining abstractions from books they read in hope to find something new. 
-> There finally results from this a mere juggling with words, of which the most shocking example is afforded us by the mind-destroying Hegelism, in which it is carried to the extent of pure nonsense.
- 
- Although conceptions are usefull becose they bring under one concept innumerable many things, they still can not create nothing new, because everything is already present in premises.
+Although conceptions are usefull becose they bring under one concept innumerable many things, they still can not create nothing new, because everything is already present in premises (deduction), or knowledge can be created with more data(induction) - but induction from large amount of data is almost always never certain - only Causality or in broader terms Reason brings us certain knowledge.
+For example we can collect huge amount of data that human heart is always on the left side of the chests, but there are cases where some people heave hearts on the right side.
  
 >The great value of conceptions lies in the fact that by means of them the
 original material of knowledge is more easily handled, surveyed,  
 and arranged. But although many kinds of logical and dialectical  
-operations are possible with them, yet no entirely ***original and new  
-knowledge will result from these***; that is to say, no knowledge  
+operations are possible with them, **yet no entirely original and new  
+knowledge will result from these**; that is to say, no knowledge  
 whose material neither lay already in perception nor was drawn  
 from self-consciousness.  
 
-More on distinction between Understanding and Reasoning:
+For example - Hooke's or Newton's discovery of Law of gravity, or Lavoisier's discovery of acids, or Einstein's discovery of theory of Relativy did not come from inductive or deductive Reasoning - it came from a happy moment when they discovered some hidden causal connections between data that was already there. The way they did it is that they inferred (made a guess or hypothesys) cause for some effect and suddenly they saw clearly because from then inborn or apriory Causality jumps in and says to them - this is it.
 
-> Books impart only secondary ideas. Mere conceptions of a thing without perception
-give only a general knowledge of it. We only have a thorough understanding of things and their relations so far as we are able to represent them to   ourselves in pure, distinct perceptions,  
-without the aid of words. To explain words by words, to compare  
-concepts with concepts, in which most philosophising consists,  
-is a trivial shifting about of the concept-spheres in order to see  
-which goes into the other and which does not. At the best we  
-can in this way only arrive at conclusions; but even conclusions  
-***give no really new knowledge***, but only show us all that lay  
-in the knowledge we already possessed, and what part of it  
-perhaps might be applicable to the particular case. On the other  
-hand, to perceive, to allow the things themselves to speak to  
-us, to apprehend new relations of them, and then to take up  
-and deposit all this in conceptions, in order to possess it with  
-certainty—***that gives new knowledge***. But, while almost every  
-one is capable of comparing conceptions with conceptions, to  
-compare conceptions with perceptions is a gift of the select few.  
-It is the condition, according to the degree of its perfection, of  
-wit, judgment, ingenuity, genius. The former faculty, on the  
-contrary, results in little more than possibly rational reflections.  
-The inmost kernel of all genuine and actual knowledge is a  
-perception; and every new truth is the profit or gain yielded by a  
-perception. All original thinking takes place in images, and this  
-is why imagination is so necessary an instrument of thought, and  
-minds that lack imagination will never accomplish much, unless  
-it be in mathematics. On the other hand, merely abstract thoughts,  
-which have no kernel of perception, are like cloud-structures,  
-without reality. Even writing and speaking, whether didactic or  
-poetical, has for its final aim to guide the reader to the same  
-concrete knowledge from which the author started; if it has not  
-this aim it is bad. This is why the contemplation and observing  
-of every real thing, as soon as it presents something new to the  
-observer, is more instructive than any reading or hearing. For  
-indeed, if we go to the bottom of the matter, all truth and wisdom,  
-nay, the ultimate secret of things, is contained in each real object,  
-yet certainly only in concreto, just as gold lies hidden in the ore;  
-the difficulty is to extract it. From a book, on the contrary, at the  
-best we only receive the truth at second hand, and oftener not at  
-all.  
+> Every one of these great discoveries is therefore, just like perception, an operation of the understanding, an immediate intuition, and as such the work of an instant, an apperçu, a flash of insight. They are not the result of a process of abstract reasoning, which only serves to make the immediate knowledge of the understanding permanent for thought by bringing it under abstract concepts, i.e., it makes knowledge distinct, it puts us in a position to impart it and explain it to others.
 
 > ***New insight***, on the contrary, can only be obtained by the help of the faculty of judgment, from perception, which alone is complete and rich knowledge.
 
+This is how animal and numan brain works - it constatly makes a guess about which object caused sensation (sight, touch etc) on our body, but our brain does this at very high speed and we are not aware of this. This is all the work of understanding and end result is perception or knowledge about the world.
+
+The scientiests do the same thing just very slowly and they try to infer cause and effect between external objects themselves not on our body directly.
 
 Here are some more quotes of Arthur Schopenhauer.
 ![SOP](https://raw.githubusercontent.com/aleksandar-b/blog/gh-pages/_posts/Fnf_kHMXwBcKHi7.jpeg)
@@ -107,9 +65,3 @@ Here are some more quotes of Arthur Schopenhauer.
 ![SOP](https://raw.githubusercontent.com/aleksandar-b/blog/gh-pages/_posts//Fnf_o7zXwAwr4XS.jpeg)
 
 ![SOP](https://raw.githubusercontent.com/aleksandar-b/blog/gh-pages/_posts/FsVOzO8WIAAs3lZ.png)
-
-
-
-
-
-
