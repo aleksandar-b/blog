@@ -5,9 +5,7 @@ title: On the Understanding
 category: posts
 ---
 
-This is a draft post, I will try to improve it by time.
-
-There is a lot of discussion lately about the AGI. It seems like it really is generaly inteligent. But two main problems with AGI are cited: 
+There is a lot of discussion lately about the AGI. It seems like it really is generaly inteligent. But two main problems with AGI remain: 
 
 1. It can not understand
 2. It can not create any new knowledge
