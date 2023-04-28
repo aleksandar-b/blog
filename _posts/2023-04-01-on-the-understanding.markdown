@@ -54,12 +54,3 @@ For example - Hooke's or Newton's discovery of Law of gravity, or Lavoisier's di
 This is how animal and numan brain works - it constatly makes a guess about which object caused sensation (sight, touch etc) on our body, but our brain does this at very high speed and we are not aware of this. This is all the work of understanding and end result is perception or knowledge about the world.
 
 The scientiests do the same thing just very slowly and they try to infer cause and effect between external objects themselves not on our body directly.
-
-Here are some more quotes of Arthur Schopenhauer.
-![SOP](https://raw.githubusercontent.com/aleksandar-b/blog/gh-pages/_posts/Fnf_kHMXwBcKHi7.jpeg)
-
-![SOP](https://raw.githubusercontent.com/aleksandar-b/blog/gh-pages/_posts/Fnf_o7xXwAkI1OC.jpeg)
-
-![SOP](https://raw.githubusercontent.com/aleksandar-b/blog/gh-pages/_posts//Fnf_o7zXwAwr4XS.jpeg)
-
-![SOP](https://raw.githubusercontent.com/aleksandar-b/blog/gh-pages/_posts/FsVOzO8WIAAs3lZ.png)
