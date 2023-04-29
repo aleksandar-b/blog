@@ -46,4 +46,4 @@ For example - Hooke's discovery of Law of gravity, or Lavoisier's discovery of a
 
 This is how animal and human brain works in lower levels - it constantly makes a guess about which object caused sensation (sight, touch etc) on our body, but our brain does this at very high speed and we are not aware of this. Understanding sometimes makes mistakes which are called illusions, that is why we developed more senses so they can correct each other, and finally to some extend Reason have an ability to correct mistake by training. This is all the work of Understanding and end result is perception or knowledge about the world.
 
-The scientiests do the same thing just very slowly and they try to infer cause and effect between external objects themselves not on our body directly.
+The scientists do the same thing but very slowly and they try to infer cause and effect between external objects themselves not on our body directly.
