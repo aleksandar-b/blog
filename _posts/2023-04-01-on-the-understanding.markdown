@@ -36,9 +36,9 @@ You may come to conclusion that pure logical Reasoning is better than Understand
 
 #### All new knowledge is the work of Understanding
 
-Although conceptions are usefull becose they bring under one concept innumerable many things, they still can not create nothing new, because everything is already present in premises (deduction), or knowledge can be created with more data(induction) - but that kind of knowledge is almost always never certain(some people have heart on right side etc) - only Causality brings us certain knowledge.
+Although conceptions are usefull because they bring under one concept innumerable many things, they still can not create nothing new, because everything is already present in premises (deduction), or knowledge can be created with more data(induction) - but that kind of knowledge is almost always never certain(some people have heart on right side etc) - only Causality brings us certain knowledge.
 
-For example - Hooke's discovery of Law of gravity, or Lavoisier's discovery of acids, or Einstein's discovery of theory of Relativity did not come from pure logical Reasoning - it came from a happy moment when they discovered some hidden causal connections between data that was already there. The way they did it is that they inferred (made a guess or hypothesys) cause for some effect and suddenly that causal connection flashed in front of their eyes.
+For example - Hooke's discovery of Law of gravity, or Lavoisier's discovery of acids, or Einstein's discovery of theory of Relativity did not come from pure logical Reasoning - it came from a happy moment when they discovered some hidden causal connections in data that was already there for everyone to see. The way they did it is that they inferred (made a guess or hypothesys) cause for some effect and suddenly that causal connection flashed in front of their eyes.
 
 > Every one of these great discoveries is therefore, just like perception, an operation of the understanding, an immediate intuition, and as such the work of an instant, an apperçu, a flash of insight. They are not the result of a process of abstract reasoning, which only serves to make the immediate knowledge of the understanding permanent for thought by bringing it under abstract concepts, i.e., it makes knowledge distinct, it puts us in a position to impart it and explain it to others.
 
