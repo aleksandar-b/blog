@@ -34,9 +34,15 @@ You may come to conclusion that pure logical Reasoning is better than Understand
 >The great value of conceptions lies in the fact that by means of them the original material of knowledge is more easily handled,surveyed, and arranged. But although many kinds of logical and dialectical operations are possible with them, **yet no entirely original and new knowledge will result from these**; that is to say, no knowledge whose material neither lay already in perception nor was drawn from self-consciousness.  
 
 
-#### All new knowledge is the work of Understanding
+#### New knowledge is the work of Understanding
 
 Although conceptions are usefull because they bring under one concept innumerable many things, they still can not create nothing new, because everything is already present in premises (deduction), or knowledge can be created with more data(induction) - but that kind of knowledge is almost always never certain(some people have heart on right side etc) - only Causality brings us certain knowledge.
+
+> Every simpleton has Reason give him the premisses, and he will draw the conclusion; whereas primary, consequently intuitive, knowledge is supplied by the Understanding: herein lies the difference. The pith of every great discovery, of every plan having universal historical importance, is accordingly the product of a happy moment in which, by a favourable coincidence of outer and inner circumstances, some complicated causal series, some hidden causes of phenomena which had been seen thousands of times before, or some obscure, untrodden paths, suddenly reveal themselves to the intellect.
+
+What Schopenhauer described here is the same thing as abductive reasoning.
+
+> But the process consists throughout in referring from given effects to their causes, which by this process are enabled to present themselves as objects in Space.
 
 For example - Hooke's discovery of Law of gravity, or Lavoisier's discovery of acids, or Einstein's discovery of theory of Relativity did not come from pure logical Reasoning - it came from a happy moment when they discovered some hidden causal connections in data that was already there for everyone to see. The way they did it is that they inferred (made a guess or hypothesys) cause for some effect and suddenly that causal connection flashed in front of their eyes.
 
