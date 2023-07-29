@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 Creating new knowledge is an act of transitioning from known effect to unknown cause.
 That unknown cause we imagine as some external object. We call this hypothesis. 
