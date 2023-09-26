@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 
 There is this opinion that what LLMs need in order to achieve superintelignece is ability for causal thinking.
@@ -48,6 +48,3 @@ Reason of Becoming (causality) - Why hydrogen mixed with oxygen explodes?
 Reason of Being (time&space) - Why _2+3=5_ ?
 Reason of Knowing (formal logic) - Why is this statement true?
 Reason of Acting (Law of motives) - Why there is a statue of Churchil?
-
-
-
