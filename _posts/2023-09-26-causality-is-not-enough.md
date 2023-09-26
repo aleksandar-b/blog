@@ -44,7 +44,7 @@ Explanation or Reason for this kind of math questions lies in Time&Space as apri
 
 This Reason Schopenhauer called Reason of Being and he proposed following classification of Reason.
 
-Reason of Becoming (causality) - Why hydrogen mixed with oxygen explodes?
-Reason of Being (time&space) - Why _2+3=5_ ?
-Reason of Knowing (formal logic) - Why is this statement true?
-Reason of Acting (Law of motives) - Why there is a statue of Churchil?
+- Reason of Becoming (causality) - Why hydrogen mixed with oxygen explodes?
+- Reason of Being (time&space) - Why _2+3=5_ ?
+- Reason of Knowing (formal logic) - Why is this statement true?
+- Reason of Acting (Law of motives) - Why there is a statue of Churchil?
