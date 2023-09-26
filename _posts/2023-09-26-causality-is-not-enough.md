@@ -16,11 +16,11 @@ or as Wolff put it in more generic form:
 
 > Nothing is without a reason why it is rather than not. - Wolff
 
-If you have read David Deutsch's things about explanation he is actually talking there about the principle of sufficient reason.
+If you have read David Deutsch's things about explanation he is actually talking there about the principle of sufficient reason, and for me those two terms are the same.
 
 ### The Reason Why?
 
-It is said that question **Why?** is the mother of all science. And when you ask why you expect to be responded with **reason why** or explanation why thing is that way. 
+It is said that question **Why?** is the mother of all science. And when you ask why you expect to be responded with **reason why** or explanation. 
 
 ### Causality deals exclusively with Change
 Where can Causality be applied as an explanation/reason? What questions that starts with Why? can be explained with Causality? The answer is that causality is an explanation only for **changes** , virtual or physical, and nothing more. 
