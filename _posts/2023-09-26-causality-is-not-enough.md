@@ -2,7 +2,7 @@
 published: true
 ---
 
-There is this opinion that what LLMs need in order to achieve superinteligence is ability for causal thinking.
+There is this opinion that what LLMs needs in order to achieve superinteligence is ability for causal thinking.
 
 While I agree that causal inference is important thing it is not the whole theoretical picture. I say theoretical because there is also practical inconvinience of testing AGI hypothesis which is the only way known to expand our knowledge.
 
