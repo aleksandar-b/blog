@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 layout: post
 title: On the Understanding
 category: posts
@@ -32,11 +32,27 @@ You may think that pure logical Reasoning is better than Understanding because i
 >The great value of conceptions lies in the fact that by means of them the original material of knowledge is more easily handled,surveyed, and arranged. But although many kinds of logical and dialectical operations are possible with them, **yet no entirely original and new knowledge will result from these**; that is to say, no knowledge whose material neither lay already in perception nor was drawn from self-consciousness.  
 
 
-#### New knowledge is the work of Understanding
+#### New knowledge is the work of Understanding (Coffee machine)
 
 Although conceptions are usefull because they bring under one concept innumerable many things, they still can not create nothing new, because everything is already present in premises.
 
 > Every simpleton has Reason, give him the premisses, and he will draw the conclusion; whereas primary, consequently intuitive, knowledge is supplied by the Understanding: herein lies the difference. The pith of every great discovery, of every plan having universal historical importance, is accordingly the product of a happy moment in which, by a favourable coincidence of outer and inner circumstances, some complicated causal series, some hidden causes of phenomena which had been seen thousands of times before, or some obscure, untrodden paths, suddenly reveal themselves to the intellect.
+
+Lets see this by famous Coffee machine example from Steve Wozniak.
+
+The fact that you learned how to make a coffee by doing it is the only new knowledge here. It happened in real world by you actually pressing a button and seeing an effect. You then inferred a cause to coffee pouring in a cup as a button being pressed before that. This is transition from known effect to unknown cause and it is has nothing to do with abstract reasoning.
+
+Transition from effect to it's cause or Science:
+
+`known effect -> unknown cause`
+
+You can then generalize or scale this knowledge by embeding it in in abstract model that can "extend the range if it's applicability" so it can be applied to "novel situations". But this is application of EXISTING knowledge to novel situations and no new knowledge is created here. If we are lucky, novel situations are almost the same and we can apply this knowledge with high certainty. 
+
+Transition from known cause to desired effect or Engineering/tinkering.
+
+`known cause -> desired effect`
+
+But often time situation is not the same and there is no other way then via trial and error or as it is called today - tinkering.
 
 What Schopenhauer described here is the same thing as abductive reasoning.
 
