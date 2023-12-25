@@ -16,7 +16,7 @@ I will show you that those two things are closely related. They are described by
 
 Shortly, Understanding is a knowledge of cause and effect.
 
-> Understanding is the same in all animals and in all men; it has everywhere the same simple form; knowledge of causality, transition from effect to cause, and from cause to effect, nothing more; - Arthur Schopenhauer
+> Understanding is the same in all animals and in all men; it has everywhere the same simple form; knowledge of causality, **transition from effect to cause, and from cause to effect**, nothing more; - Arthur Schopenhauer
 
 
 #### Difference between Understanding and Reasoning
@@ -40,13 +40,13 @@ Although conceptions are usefull because they bring under one concept innumerabl
 
 Lets see this by famous Coffee machine example from Steve Wozniak.
 
-The fact that you learned how to make a coffee by doing it is the only new knowledge here. It happened in real world by you actually pressing a button and seeing an effect. You then inferred a cause to coffee pouring in a cup as a button being pressed before that. This is transition from known effect to unknown cause and it is has nothing to do with abstract reasoning.
+The fact that you learned how to make a coffee by doing it is the only new knowledge here. It happened in real world by you actually pressing a button and seeing an effect. You then inferred a cause to coffee pouring in a cup as a button being pressed before that. This is transition from known effect to unknown cause and it is has nothing to do with abstract reasoning but it is intuitive and every animal have it in degree. It is learning by doing knowlege.
 
 Transition from effect to it's cause or Science:
 
 `known effect -> unknown cause`
 
-You can then generalize or scale this knowledge by embeding it in in abstract model that can "extend the range if it's applicability" so it can be applied to "novel situations". But this is application of EXISTING knowledge to novel situations and no new knowledge is created here. If we are lucky, novel situations are almost the same and we can apply this knowledge with high certainty. 
+You can then generalize or scale this knowledge by embeding it in in abstract model that can "extend the range if it's applicability" so it can be applied to "novel situations". For example this knowledge can be applied to similar coffee machines. It can be also passed to others via abstract manual. But this is application of EXISTING knowledge to novel situations and no new knowledge is created here. If we are lucky, novel situations are almost the same and we can apply this knowledge with high certainty. 
 
 Transition from known cause to desired effect or Engineering/tinkering.
 
