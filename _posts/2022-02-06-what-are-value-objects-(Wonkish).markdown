@@ -2,7 +2,7 @@
 published: true
 ---
 
-> "That which always is and has no becoming." -Plato
+> “What is that which always is in the same state and has no becoming and perishing, and what is that which is always becoming and perishing but never is in the same state?"  -Plato
 
 In this post I argue that value objects are programming language substitute for abstractions in natural languages where they appear as common nouns.
 
