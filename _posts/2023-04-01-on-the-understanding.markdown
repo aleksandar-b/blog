@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: On the Understanding
 category: posts
