@@ -32,37 +32,31 @@ You may think that pure logical Reasoning is better than Understanding because i
 >The great value of conceptions lies in the fact that by means of them the original material of knowledge is more easily handled,surveyed, and arranged. But although many kinds of logical and dialectical operations are possible with them, **yet no entirely original and new knowledge will result from these**; that is to say, no knowledge whose material neither lay already in perception nor was drawn from self-consciousness.  
 
 
-#### New knowledge is the work of Understanding (Coffee machine)
-
-Although conceptions are usefull because they bring under one concept innumerable many things, they still can not create nothing new, because everything is already present in premises.
+#### Cofee test by Steve Wozniak
 
 > Every simpleton has Reason, give him the premisses, and he will draw the conclusion; whereas primary, consequently intuitive, knowledge is supplied by the Understanding: herein lies the difference. The pith of every great discovery, of every plan having universal historical importance, is accordingly the product of a happy moment in which, by a favourable coincidence of outer and inner circumstances, some complicated causal series, some hidden causes of phenomena which had been seen thousands of times before, or some obscure, untrodden paths, suddenly reveal themselves to the intellect.
 
-Lets see this by famous Coffee machine example from Steve Wozniak.
+Lets talk about famous [Coffee test](https://www.youtube.com/watch?v=MowergwQR5Y) from Steve Wozniak.
 
-The fact that you learned how to make a coffee by doing it is the only new knowledge here. It happened in real world by you actually pressing a button and seeing an effect. You then inferred a cause to coffee pouring in a cup as a button being pressed before that. This is transition from known effect to unknown cause and it is has nothing to do with abstract reasoning but it is intuitive and every animal have it in degree. It is learning by doing knowlege.
+What Steve Wozniak is missing here is the fact that you learned how to make a coffee by actually doing it is the only new knowledge here. It happened in real world by you actually pressing a button and seeing an **effect**. You then inferred a **cause** to coffee pouring in a cup as a button being pressed before that. This is transition from known effect to unknown cause and it is has nothing to do with abstract reasoning but it is intuitive and every animal have it in a degree. It is learning by doing knowlege.
 
 Transition from effect to it's cause or Science:
 
-`known effect -> unknown cause`
+`(known) effect -> (unknown) cause`
 
-You can then generalize or scale this knowledge by embeding it in in abstract model that can "extend the range if it's applicability" so it can be applied to "novel situations". For example this knowledge can be applied to similar coffee machines. It can be also passed to others via abstract manual. But this is application of EXISTING knowledge to novel situations and no new knowledge is created here. If we are lucky, novel situations are almost the same and we can apply this knowledge with high certainty. 
+You can then generalize or scale this knowledge by embeding it in in abstract model that can "extend the range if it's applicability" so it can be applied to "novel situations". For example this knowledge can be applied to similar coffee machines in a state. It can be also passed to others via abstract manual. But this is application of EXISTING knowledge to novel situations and no new knowledge is created here. If we are lucky, novel situations are almost the same and we can apply this knowledge with high certainty. 
+
+Ask yourself did you learn programming by reading books about it or by actually doing it? Did you learn to assembly ikea funiture by reading abstract manual or by doing it?
+Information stored in abstract manual or books is of abstract nature and it serves to pass to others the STATE which will produce desired effect. It serves to guide you how to set that state so that desired effect will follow after you sucessfully set the last precondition in state. But there is no substitute for you actually doing it. Only then you can call that knowedge yours. Abstractions don't allow this, they are just manual for setting state which will necessary produce effect after you set last precondition manually. This is the knowledge of causal Understanding, the only real knowledge, because it passed through your senses, was picked up by Understanding which performed causal inference on raw data from senses.
 
 Transition from known cause to desired effect or Engineering/tinkering.
 
-`known cause -> desired effect`
+`(known) cause -> (desired) effect`
 
-But often time situation is not the same and there is no other way then via trial and error or as it is called today - tinkering.
-
-What Schopenhauer described here is the same thing as abductive reasoning.
-
-> But the process consists throughout in referring from given effects to their causes, which by this process are enabled to present themselves as objects in Space.
-
-For example - Hooke's discovery of Law of gravity, or Lavoisier's discovery of acids, or Einstein's discovery of theory of Relativity did not come from pure logical Reasoning - it came from a happy moment when they discovered some hidden causal connections in data that was already there for everyone to see. The way they did it is that they inferred (made a guess or hypothesys) cause for some effect and suddenly that causal connection flashed in front of their eyes.
+But often time situation is not the same and there is no other way other then via trial and error engineering or as it is called today - tinkering.
 
 > Every one of these great discoveries is therefore, just like perception, an operation of the understanding, an immediate intuition, and as such the work of an instant, an apperçu, a flash of insight. They are not the result of a process of abstract reasoning, which only serves to make the immediate knowledge of the understanding permanent for thought by bringing it under abstract concepts, i.e., it makes knowledge distinct, it puts us in a position to impart it and explain it to others.
 
-> **New insight**, on the contrary, can only be obtained by the help of the faculty of judgment, from perception, which alone is complete and rich knowledge.
 
 This is how animal and human brain works at lower levels - it constantly makes a guess about which object caused sensation (sight, touch etc) on our body, but our brain does this at very high speed and we are not aware of this. This is especially true with the sense of sight which is the most fastest. Because of that Understanding sometimes makes mistakes which are called illusions, that is why we developed more senses so they can correct each other, and finally to some extend Reason have an ability to correct mistake by training. This is all the work of Understanding and end result is perception or knowledge about the world.
 
