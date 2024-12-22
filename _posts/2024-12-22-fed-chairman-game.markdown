@@ -4,7 +4,7 @@ You can play it [here](https://fed-chairman-game-bay.vercel.app/):
 
 [https://fed-chairman-game-bay.vercel.app/](https://fed-chairman-game-bay.vercel.app/)
 
-![Screenshot 2024-11-04 at 14.42.59.png]({{site.baseurl}}/_posts/Screenshot 2024-11-04 at 14.42.59.png)
+![Screenshot 2024-11-04 at 14.42.59.png](https://raw.githubusercontent.com/aleksandar-b/blog/gh-pages/_posts/table_abstract.png)
 
 
 TODO: additional indicators
@@ -18,4 +18,3 @@ TODO: additional indicators
 - [] Housing prices
 - [] Balance of trade
 - [] Nominal GDP growth
-
