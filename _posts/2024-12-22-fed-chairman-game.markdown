@@ -1,6 +1,4 @@
-## Fed chairman game
-
-I recreated an old flash game - **Fed chairman**, economic simulation. 
+I recreated an old flash game - **Fed chairman**, an economic simulation. 
 
 You can play it [here](https://fed-chairman-game-bay.vercel.app/):
 
