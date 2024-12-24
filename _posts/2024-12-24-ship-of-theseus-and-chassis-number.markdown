@@ -1,4 +1,4 @@
-### Practical solution for a Ship of theseus 
+### Practical solution for a philosophical problem 
 
 Long time ago I had an interview for an SWE position in some automotive startup and of the questions was something like "How would you distinquish two cars?". I said I would use ID but I saw that interviewer was not satisfied with my answer.
 
