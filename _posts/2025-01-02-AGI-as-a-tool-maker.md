@@ -1,6 +1,6 @@
 I’ve been thinking about Schopenhauer’s distinction between knowledge of perception and knowledge of conception, how that relates to AGI, and wanted to see what others think. Here’s a quick breakdown:
 
-### **Schopenhauer’s Distinction**
+### Schopenhauer’s Distinction
 
 **Knowledge of Perception (Understanding)**
 - Comes from our senses.
@@ -16,13 +16,15 @@ I’ve been thinking about Schopenhauer’s distinction between knowledge of per
 
 
 **Examples from History**
-Galileo’s Telescope: Without building a new tool (the telescope) to extend his perception, could he have discovered Jupiter’s moons or mountains on the Moon? Abstract reasoning alone probably wouldn’t cut it.
 
-Large Hadron Collider (LHC): A huge experimental apparatus that led to the discovery of the Higgs boson. Was there any way to confirm its existence by pure thought experiment alone? Most would say no—someone had to perceive (via sensors, detectors, etc.) new data.
+**Galileo’s Telescope**: Without building a new tool (the telescope) to extend his perception, could he have discovered Jupiter’s moons or mountains on the Moon? Abstract reasoning alone probably wouldn’t cut it.
 
-Cosmic Microwave Background Radiation In 1964, Arno Penzias and Robert Wilson were using a radio antenna to study the sky. They kept detecting persistent static, which they tried to eliminate by every method they could think of (even cleaning out pigeon droppings!). Eventually, they realized the noise wasn’t instrument error but a faint signal coming uniformly from all directions.
+**Large Hadron Collider (LHC)**: A huge experimental apparatus that led to the discovery of the Higgs boson. Was there any way to confirm its existence by pure thought experiment alone? Most would say no—someone had to perceive (via sensors, detectors, etc.) new data.
+
+**Cosmic Microwave Background Radiation**: In 1964, Arno Penzias and Robert Wilson were using a radio antenna to study the sky. They kept detecting persistent static, which they tried to eliminate by every method they could think of (even cleaning out pigeon droppings!). Eventually, they realized the noise wasn’t instrument error but a faint signal coming uniformly from all directions.
 
 **AGI as a Tool-Maker?**
+
 One intriguing extension of this idea is how it relates to Artificial General Intelligence (AGI). If we follow Schopenhauer’s line of thought, an AGI might be most valuable not just as a conceptual engine (running endless abstract computations) or a tool user but as a tool-maker—designing new instruments or experiments to expand our perceptions in realms we currently can’t observe.
 
 Without novel tools that feed new sensory data to our scientific community (human or machine), we might be stuck re-hashing the same concepts indefinitely. The real breakthroughs happen when we push the boundaries of what we can perceive—like building bigger colliders, telescopes, or detectors that show us something truly new.
