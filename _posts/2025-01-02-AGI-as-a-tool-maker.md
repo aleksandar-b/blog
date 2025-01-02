@@ -4,7 +4,7 @@ I’ve been thinking about Schopenhauer’s distinction between knowledge of per
 
 **Knowledge of Perception (Understanding)**
 - Comes from our senses.
-- Involves in mental process of forming a hypothesis about the cause as some external object behind our sensations.
+- Involves a mental process of forming a hypothesis about the cause as some external object behind our sensations.
 - Results in an intuitive, rather than purely abstract, mental image.
 - According to Schopenhauer, this is the only way to generate new knowledge.
 
