@@ -9,7 +9,7 @@ I’ve been thinking about Schopenhauer’s distinction between knowledge of per
 - According to Schopenhauer, this is the only way to generate new knowledge.
 
 
-**Knowledge of Conception (Reason)**
+**Knowledge of Conception (Reasoning)**
 - Abstract, verbal, or symbolic knowledge.
 - Serves mainly to store and transmit what we’ve discovered through perception.
 - Doesn’t (on its own) create truly new insights about reality—rather, it refines or rearranges what we’ve already observed.
