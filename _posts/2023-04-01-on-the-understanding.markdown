@@ -4,6 +4,7 @@ title: On the Understanding
 category: posts
 ---
 Recent discussions about Artificial General Intelligence (AGI) suggest that we may be on the verge of creating machines that are “generally intelligent.” However, there are two main objections:
+
 	1.	AGI cannot truly understand
 	2.	AGI cannot create any new knowledge
 
