@@ -16,7 +16,7 @@ _> **Understanding is the same in all animals and in all men; it has everywhere 
 
 
 According to Schopenhauer, Understanding is fundamentally the knowledge of cause and effect. This faculty arose in living creatures with the development of the first sense organs, allowing raw sensory data to become perceptions. When an organism’s senses are stimulated (the “effect”), the mind infers a corresponding “cause” (an external object or event). This direct, intuitive leap from an observed effect to its underlying cause is what Schopenhauer calls direct Understanding. 
-Perception is the end result of this process of causal inference and it is consider it to be one of the form of Understanding (the lowest form).
+Perception is the end result of this process of causal inference and it is consider it to be one of the forms of Understanding (the lowest form).
 
 Humans also have indirect Understanding, which further analyzes causal connections not just on the body (e.g., what is causing this particular sensation?) but between external objects themselves. This gave rise to scientific inquiry and all systematic exploration of how the world works.
 
