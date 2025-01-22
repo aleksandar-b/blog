@@ -12,7 +12,7 @@ In this post, I will argue that these two issues are closely related. To do so, 
 
 **1. Schopenhauer’s Concept of Understanding**
 
-_> **Understanding is the same in all animals and in all men; it has everywhere the same simple form—knowledge of causality, transition from effect to cause, and from cause to effect, nothing more.** - Arthur Schopenhauer_
+> _**Understanding is the same in all animals and in all men; it has everywhere the same simple form—knowledge of causality, transition from effect to cause, and from cause to effect, nothing more.** - Arthur Schopenhauer_
 
 
 According to Schopenhauer, Understanding is fundamentally the knowledge of cause and effect. This faculty arose in living creatures with the development of the first sense organs, allowing raw sensory data to become perceptions. When an organism’s senses are stimulated (the “effect”), the mind infers a corresponding “cause” (an external object or event). This direct, intuitive leap from an observed effect to its underlying cause is what Schopenhauer calls direct Understanding. 
