@@ -12,7 +12,7 @@ In this post, I will argue that these two issues are closely related. To do so, 
 
 **1. Schopenhauer’s Concept of Understanding**
 
-> _**Understanding is the same in all animals and in all men; it has everywhere the same simple form—knowledge of causality, transition from effect to cause, and from cause to effect, nothing more.** - Arthur Schopenhauer_
+> Understanding is the same in all animals and in all men; it has everywhere the same simple form—knowledge of causality, transition from effect to cause, and from cause to effect, nothing more. - Arthur Schopenhauer
 
 
 According to Schopenhauer, Understanding is fundamentally the knowledge of cause and effect. This faculty arose in living creatures with the development of the first sense organs, allowing raw sensory data to become perceptions. When an organism’s senses are stimulated (the “effect”), the mind infers a corresponding “cause” (an external object or event). This direct, intuitive leap from an observed effect to its underlying cause is what Schopenhauer calls direct Understanding. 
@@ -32,7 +32,7 @@ Schopenhauer draws a strict distinction between Understanding and Reasoning:
 
 Although Reason is a remarkable leap—enabling language, the passage of knowledge across generations, and much of civilization—Schopenhauer insists it is secondary to Understanding. Reason depends on the raw material that Understanding provides through perception of the world.
 
-_“No entirely original and new knowledge will result from abstract reasoning alone; that is to say, no knowledge whose material neither lay already in perception nor was drawn from self-consciousness.” - Arthur Schopenhauer_
+> “No entirely original and new knowledge will result from abstract reasoning alone; that is to say, no knowledge whose material neither lay already in perception nor was drawn from self-consciousness.” - Arthur Schopenhauer
 
 In other words, you cannot generate brand-new insights purely through logical manipulation of concepts. At some level, the knowledge must be grounded in actual perception—real-world cause and effect.
 
@@ -40,7 +40,7 @@ In other words, you cannot generate brand-new insights purely through logical ma
 
 Many people might think that pure, logical Reasoning is more advanced or more “human.” Yet Schopenhauer strongly defends the primary role of perceptual, immediate causal knowledge. Abstract concepts, he argues, are merely tools to organize or communicate those direct insights.
 
-_“Every simpleton has Reason—give him the premises, and he will draw the conclusion; whereas primary, intuitive knowledge is supplied by the Understanding.” - Arthur Schopenhauer_
+> “Every simpleton has Reason—give him the premises, and he will draw the conclusion; whereas primary, intuitive knowledge is supplied by the Understanding.” - Arthur Schopenhauer
 
 
 **4. Creating Knowledge: Two Transitions of Causality**
@@ -83,3 +83,5 @@ It is possible that future research in robotics, embodied cognition, and continu
 
 **6. Conclusion**
 By grounding these philosophical insights in practical examples like making coffee, assembling IKEA furniture, or the process of discovery in science, we see that true knowledge—true causal Understanding—always arises from direct, perceptual interaction with the world. For now, AGI systems lack that grounding, which raises fundamental questions about whether they can ever genuinely understand or create knowledge in the way humans do.
+
+> Objects are first of all objects of perception, not of thought, and all knowledge of objects is originally and in itself perception. Perception, however, is by no means mere sensation, but the understanding is already active in it. The thought, which is added only in the case of men, not in the case of the brutes, is mere abstraction from perception, gives no fundamentally new knowledge, does not itself establish objects which were not before, but merely changes the form of the knowledge already won through perception,  makes it abstract knowledge in concepts, whereby its concrete or perceptible character is lost, but, on the other hand, combination of it becomes possible, which immeasurably extends the range of its applicability. - Arthur Schopenhauer
