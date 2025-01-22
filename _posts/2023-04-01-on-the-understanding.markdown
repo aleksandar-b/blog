@@ -22,7 +22,7 @@ Humans also have indirect Understanding, which further analyzes causal connectio
 
 **1.1. Causality - changes of states not objects**
 
-If we want to dig a little deeper into his philosophy of Causality we can see that what causality deals with is changes of states. So in his opinion it is wrong to say that single Object A is a cause of Object B. On closer inspection we see that state A (object A + preconditions) is the cause of state B. We won't go too much here about his notion of causality, but we can say that it closely matches Finite State Machine concept.
+If we want to dig a little deeper into his philosophy of Causality we can see that for him causality is "director of all changes". What causality deals with is changes of states. So in his opinion it is wrong to say that single Object A is a cause of Object B in case of some change. On closer inspection we see that state A (object A + preconditions) is the cause of state B once change happens. We won't go too much here about his notion of causality, but we can say that it closely matches Finite State Machine concept.
 
 **2. How Understanding Differs from Reasoning**
 
