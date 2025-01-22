@@ -56,10 +56,12 @@ Engineers, tinkerers, and inventors start with a known set of causes (materials,
 AGI systems today often excel at manipulating abstract representations (language models, data patterns, etc.). However, Schopenhauer’s account suggests that true Understanding—the ability to infer genuinely new causal knowledge—cannot arise solely through symbolic processing or pattern recognition.
 
 1.	AGI and Understanding
+
 	Many AI methods rely on large-scale pattern recognition and statistical inference. They do not (yet) ground these patterns in direct, causal engagement with the world in the same way humans and animals do.
 
 2.	AGI and Creating New Knowledge
-	Without that grounding in real sensory, hands-on experimentation (and the moment-to-moment “flash of insight”), an AI might be unable to spontaneously discover truly novel causal links.
+
+	Without that grounding in real sensory, hands-on experimentation (and the moment-to-moment “flash of insight”) which is the end result of Understanding, an AI might be unable to spontaneously discover truly novel causal links. The process of Understading where he infers causes is per definition new knowledge because it establises causal connections and objects where they did not exist earlier.
 
 **5.1. The Coffee Test by Steve Wozniak**
 
