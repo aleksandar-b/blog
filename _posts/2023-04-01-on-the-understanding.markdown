@@ -27,8 +27,11 @@ If we want to dig a little deeper into his philosophy of Causality we can see th
 **2. How Understanding Differs from Reasoning**
 
 Schopenhauer draws a strict distinction between Understanding and Reasoning:
-	•	Understanding: The intuitive, causal inference that we share with animals—though humans can do it in more sophisticated ways (indirectly).
-	•	Reason: The ability to form abstract concepts from our perceptions. This is unique to humans. Through Reason, we create general ideas, words, and language; we store, combine, and communicate knowledge in a symbolic form.
+
+1. **Understanding**: The intuitive, causal inference that we share with animals—though humans can do it in more sophisticated ways (indirectly).
+
+2. **Reasoning**: The ability to form abstract concepts from our perceptions. This is unique to humans. Through Reason, we create general ideas, words, and language; we store, combine, and communicate knowledge in a symbolic form.
+
 
 Although Reason is a remarkable leap—enabling language, the passage of knowledge across generations, and much of civilization—Schopenhauer insists it is secondary to Understanding. Reason depends on the raw material that Understanding provides through perception of the world.
 
