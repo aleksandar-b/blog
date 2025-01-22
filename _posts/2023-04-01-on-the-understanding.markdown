@@ -5,8 +5,8 @@ category: posts
 ---
 Recent discussions about Artificial General Intelligence (AGI) suggest that we may be on the verge of creating machines that are “generally intelligent.” However, there are two main objections:
 
-	1.	AGI cannot truly understand
-	2.	AGI cannot create any new knowledge
+1.	AGI cannot truly understand
+2.	AGI cannot create any new knowledge
 
 In this post, I will argue that these two issues are closely related. To do so, I will draw upon Arthur Schopenhauer’s philosophical distinction between Understanding and Reason. I will also show how Understanding, in Schopenhauer’s view, differs fundamentally from abstract Reasoning and why this matters when assessing AGI.
 
