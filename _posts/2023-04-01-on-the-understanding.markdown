@@ -1,68 +1,82 @@
 ---
-published: true
 layout: post
 title: On the Understanding
 category: posts
 ---
+Recent discussions about Artificial General Intelligence (AGI) suggest that we may be on the verge of creating machines that are “generally intelligent.” However, there are two main objections:
+	1.	AGI cannot truly understand
+	2.	AGI cannot create any new knowledge
 
-There is a lot of discussion lately about the AGI. It seems like it really is generaly inteligent. But two main problems with AGI remain: 
+In this post, I will argue that these two issues are closely related. To do so, I will draw upon Arthur Schopenhauer’s philosophical distinction between Understanding and Reason. I will also show how Understanding, in Schopenhauer’s view, differs fundamentally from abstract Reasoning and why this matters when assessing AGI.
 
-1. It can not understand
-2. It can not create any new knowledge
+**1. Schopenhauer’s Concept of Understanding**
 
-I will show you that those two things are closely related. They are described by Arthur Schopenhauer who wrote extensively about faculty of Understanding. I will also try to explain you how Understanding differs from abstract Reasoning.
-
-#### What is Understanding?
-
-Shortly, Understanding is a knowledge of cause and effect.
-
-> Understanding is the same in all animals and in all men; it has everywhere the same simple form; knowledge of causality, **transition from effect to cause, and from cause to effect**, nothing more; - Arthur Schopenhauer
+_> **Understanding is the same in all animals and in all men; it has everywhere the same simple form—knowledge of causality, transition from effect to cause, and from cause to effect, nothing more.** - Arthur Schopenhauer_
 
 
-#### Difference between Understanding and Reasoning
+According to Schopenhauer, Understanding is fundamentally the knowledge of cause and effect. This faculty arose in living creatures with the development of the first sense organs, allowing raw sensory data to become perceptions. When an organism’s senses are stimulated (the “effect”), the mind infers a corresponding “cause” (an external object or event). This direct, intuitive leap from an observed effect to its underlying cause is what Schopenhauer calls direct Understanding. 
+Perception is the end result of this process of causal inference and it is consider it to be one of the form of Understanding (the lowest form).
 
-Schopenhauer makes clear distintion between Understanding and Reasoning. Understanding is the thing we share with our brothers animals. It was created  with the development of first sense so we could create perceptions from raw senses. It consists of **inferring unknown causes for the given effect** where effect is our sense activation and cause is some external object. This is called direct Understanding, common to simple animals, whether indirect Understanding is more advanced and is common for humans where we try to infer causal relations between external object themselves(science). This process creates our whole perception by inferring causes for a given effect with the help of Time and Space.
+Humans also have indirect Understanding, which further analyzes causal connections not just on the body (e.g., what is causing this particular sensation?) but between external objects themselves. This gave rise to scientific inquiry and all systematic exploration of how the world works.
 
-Later we developed Reason - ability to make abstract concepts out of perception. Although imperfect because it consists of removing all that is non-essential it allowed us to store it with word for the future and pass it to others via language. That ability to think in abstractions separated us from animals - and because of that we have what animals don't - things like language, laughter, live in the past and future etc.
+**1.1. Causality - changes of states not objects**
 
-#### Perception > Conception
+If we want to dig a little deeper into his philosophy of Causality we can see that what causality deals with is changes of states. So in his opinion it is wrong to say that single Object A is a cause of Object B. On closer inspection we see that state A (object A + preconditions) is the cause of state B. We won't go too much here about his notion of causality, but we can say that it closely matches Finite State Machine concept.
 
-You may think that pure logical Reasoning is better than Understanding because it is more "human" but Schopenhauer is strongly against this. He thought that only knowledge of perception, of immediate Understanding of causal relation of things is real knowledge and that other knowledge of abstract reasoning is secondary and derivative of the first one.
+**2. How Understanding Differs from Reasoning**
 
->The great value of conceptions lies in the fact that by means of them the original material of knowledge is more easily handled,surveyed, and arranged. But although many kinds of logical and dialectical operations are possible with them, **yet no entirely original and new knowledge will result from these**; that is to say, no knowledge whose material neither lay already in perception nor was drawn from self-consciousness.  
+Schopenhauer draws a strict distinction between Understanding and Reasoning:
+	•	Understanding: The intuitive, causal inference that we share with animals—though humans can do it in more sophisticated ways (indirectly).
+	•	Reason: The ability to form abstract concepts from our perceptions. This is unique to humans. Through Reason, we create general ideas, words, and language; we store, combine, and communicate knowledge in a symbolic form.
 
+Although Reason is a remarkable leap—enabling language, the passage of knowledge across generations, and much of civilization—Schopenhauer insists it is secondary to Understanding. Reason depends on the raw material that Understanding provides through perception of the world.
 
-#### Cofee test by Steve Wozniak
+_“No entirely original and new knowledge will result from abstract reasoning alone; that is to say, no knowledge whose material neither lay already in perception nor was drawn from self-consciousness.” - Arthur Schopenhauer_
 
-> Every simpleton has Reason, give him the premisses, and he will draw the conclusion; whereas primary, consequently intuitive, knowledge is supplied by the Understanding: herein lies the difference. The pith of every great discovery, of every plan having universal historical importance, is accordingly the product of a happy moment in which, by a favourable coincidence of outer and inner circumstances, some complicated causal series, some hidden causes of phenomena which had been seen thousands of times before, or some obscure, untrodden paths, suddenly reveal themselves to the intellect.
+In other words, you cannot generate brand-new insights purely through logical manipulation of concepts. At some level, the knowledge must be grounded in actual perception—real-world cause and effect.
 
-Lets talk about famous [Coffee test](https://www.youtube.com/watch?v=MowergwQR5Y) from Steve Wozniak.
+**3. Why Perception Trumps Conception**
 
-What Steve Wozniak is missing here is the fact that you learned how to make a coffee by actually doing it is the only new knowledge here. It happened in real world by you actually pressing a button and seeing an **effect**. You then inferred a **cause** to coffee pouring in a cup as a button being pressed before that. This is transition from known effect to unknown cause and it is has nothing to do with abstract reasoning but it is intuitive and every animal have it in a degree. It is learning by doing knowlege.
+Many people might think that pure, logical Reasoning is more advanced or more “human.” Yet Schopenhauer strongly defends the primary role of perceptual, immediate causal knowledge. Abstract concepts, he argues, are merely tools to organize or communicate those direct insights.
 
-Transition from effect to it's cause or Science:
-
-`(known) effect -> (unknown) cause`
-
-You can then generalize or scale this knowledge by embeding it in in abstract model that can "extend the range if it's applicability" so it can be applied to "novel situations". For example this knowledge can be applied to similar coffee machines in a state. It can be also passed to others via abstract manual. But this is application of EXISTING knowledge to novel situations and no new knowledge is created here. If we are lucky, novel situations are almost the same and we can apply this knowledge with high certainty. 
-
-Ask yourself did you learn programming by reading books about it or by actually doing it? Did you learn to assembly ikea funiture by reading abstract manual or by doing it?
-Information stored in abstract manual or books is of abstract nature and it serves to pass to others the STATE which will produce desired effect. It serves to guide you how to set that state so that desired effect will follow after you sucessfully set the last precondition in state. But there is no substitute for you actually doing it. Only then you can call that knowedge yours. Abstractions don't allow this, they are just manual for setting state which will necessary produce effect after you set last precondition manually. This is the knowledge of causal Understanding, the only real knowledge, because it passed through your senses, was picked up by Understanding which performed causal inference on raw data from senses.
-
-Transition from known cause to desired effect or Engineering/tinkering.
-
-`(known) cause -> (desired) effect`
-
-But often time situation is not the same and there is no other way other then via trial and error engineering or as it is called today - tinkering.
-
-> Every one of these great discoveries is therefore, just like perception, an operation of the understanding, an immediate intuition, and as such the work of an instant, an apperçu, a flash of insight. They are not the result of a process of abstract reasoning, which only serves to make the immediate knowledge of the understanding permanent for thought by bringing it under abstract concepts, i.e., it makes knowledge distinct, it puts us in a position to impart it and explain it to others.
+_“Every simpleton has Reason—give him the premises, and he will draw the conclusion; whereas primary, intuitive knowledge is supplied by the Understanding.” - Arthur Schopenhauer_
 
 
-This is how animal and human brain works at lower levels - it constantly makes a guess about which object caused sensation (sight, touch etc) on our body, but our brain does this at very high speed and we are not aware of this. This is especially true with the sense of sight which is the most fastest. Because of that Understanding sometimes makes mistakes which are called illusions, that is why we developed more senses so they can correct each other, and finally to some extend Reason have an ability to correct mistake by training. This is all the work of Understanding and end result is perception or knowledge about the world.
+**4. Creating Knowledge: Two Transitions of Causality**
 
-The scientists do the same thing but very slowly and they try to infer cause and effect between external objects themselves not on our body directly. But between Understanding at high level and that at low level there is a whole gradation on how Understanding manifest itself.
+**4.1. Transition From Effect to Unknown Cause: The Realm of Science**
+Scientists study the world by noticing certain effects (e.g., a strange reading on a sensor) and inferring a cause. This includes forming hypotheses, designing experiments, and uncovering new phenomena. The Understanding is doing the heavy lifting, supplying intuitive leaps or sudden insights (“flashes of insight”) that unveil new causal connections.
 
-> The keenness of the understanding in apprehending the causal relations of objects which are known indirectly, does not find its only application in the sphere of natural science (though all the discoveries in that sphere are due to it), but it also appears in practical life. It is then called good sense or prudence, as in its other application it is better called acuteness, penetration, sagacity. More exactly, good sense or prudence signifies exclusively understanding at the command of the will. But the limits of these conceptions must not be too sharply defined, for it is always that one function of the understanding by means of which all animals perceive objects in space, which, in its keenest form, appears now in the phenomena of nature, correctly inferring the unknown causes from the given effects, and providing the material from which the reason frames general rules as laws of nature; now inventing complicated and ingenious machines by adapting known causes to desired effects; now in the sphere of motives, seeing through and frustrating intrigues and machinations, or fitly disposing the motives and the men who are susceptible to them, setting them in motion, as machines are moved by levers and wheels, and directing them at will to the accomplishment of its ends. Deficiency of understanding is called  stupidity. It is just dulness in applying the law of causality, incapacity for the immediate apprehension of the concatenations of causes and effects, motives and actions. A stupid person has no insight into the connection of natural phenomena, either when they follow their own course, or when they are intentionally combined, i.e., are applied to machinery. Such a man readily believes in magic and miracles. A stupid man does not observe that persons, who apparently act independently of each other, are really in collusion; he is therefore easily mystified, and outwitted; he does not discern the hidden motives of proffered advice or expressions of opinion, &c. But it is always just one thing that he lacks —keenness, rapidity, ease in applying the law of causality, i.e., power of understanding.
+**4.2. Transition From Known Cause to Desired Effect: The Realm of Engineering**
+Engineers, tinkerers, and inventors start with a known set of causes (materials, mechanisms, processes) and strive to produce a specific outcome (the “desired effect”). If existing knowledge does not apply perfectly (state that produced effect is not the same), they resort to trial and error—hands-on tinkering that again relies on seeing and feeling what works, adjusting on the fly.
 
-It is important to notice that this description of how Understanding works - by inferring unknown causes to given effect - is generaly accepted truth in today's neuroscience - it is called by different names of "uncouncous inference" or "predictive coding". 
-It was influenced by Helmholtz who itself just copied Schopenhauer philosophy of perception and Understanding, particulary Schopenahuer's book - On Vision and Colors.
+
+**5. How This Relates to AGI**
+AGI systems today often excel at manipulating abstract representations (language models, data patterns, etc.). However, Schopenhauer’s account suggests that true Understanding—the ability to infer genuinely new causal knowledge—cannot arise solely through symbolic processing or pattern recognition.
+
+1.	AGI and Understanding
+	Many AI methods rely on large-scale pattern recognition and statistical inference. They do not (yet) ground these patterns in direct, causal engagement with the world in the same way humans and animals do.
+
+2.	AGI and Creating New Knowledge
+	Without that grounding in real sensory, hands-on experimentation (and the moment-to-moment “flash of insight”), an AI might be unable to spontaneously discover truly novel causal links.
+
+**5.1. The Coffee Test by Steve Wozniak**
+
+An example of 2nd transition (From Known Cause to Desired Effect) appears in Steve Wozniak’s famous “coffee test”: once AGI learns how to make a coffee in his home (1st transition) it should be able to walk into someone’s home, find the kitchen, and make a cup of coffee on its own (2nd transition).
+
+How do humans learn to make coffee in the first place? Primarily with 1st transition: you press a button, register a change (the machine pours coffee) as an effect and your brain directly infers that your button press (change) was the cause. This direct experimentation is how “new” knowledge is formed—transitioning from known effect to unknown cause and pinning the right cause to the effect. You can then "extend the range of it's applicability" by generalising that knowledge of causal state A that produced state B. The way you store it is in abstract form (verbal or written) and then it becomes part of realm of Reasoning. Think about IKEA manual as perfect example of that. 
+
+The same idea is conveyed here in this [Twitter thread] by François Chollet (https://x.com/fchollet/status/1736483628971082111)
+
+But we have two issues here: 
+
+1. The state that produced effect may not the be same in new situation. So you need tinkering or trail and error, not just Reasoning.
+
+2. Saying that AGI can apply that knowledge to *novel* situations blures the fact that what AGI is actually doing is applying EXISTING knowledge (created with causal inference) to novel situation. The only moment when new knowledge is created is when someone observed cause and effect relation through Understanding. In other words new knowledge is not the same as application of that knowledge.
+
+In both science and engineering, genuinely new knowledge requires more than just abstract conceptual manipulation. It demands direct contact with the world’s causal structure.
+
+It is possible that future research in robotics, embodied cognition, and continual learning will help AIs develop something closer to Schopenhauer’s notion of Understanding. But for now, these remain open challenges.
+
+**6. Conclusion**
+By grounding these philosophical insights in practical examples like making coffee, assembling IKEA furniture, or the process of discovery in science, we see that true knowledge—true causal Understanding—always arises from direct, perceptual interaction with the world. For now, AGI systems lack that grounding, which raises fundamental questions about whether they can ever genuinely understand or create knowledge in the way humans do.
