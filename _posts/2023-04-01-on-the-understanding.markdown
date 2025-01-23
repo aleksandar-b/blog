@@ -76,7 +76,7 @@ The same idea is conveyed here in this [Twitter thread] by François Chollet (ht
 
 But we have two issues here: 
 
-1. The state that produced effect may not the be same in new situation. So you need tinkering or trail and error, not just Reasoning.
+1. The state that produced effect may not the be same in new situation. So you need tinkering or trail and error, not just Reasoning. Schopenhauer points out that causality depends on a complete set of conditions (a total state) rather than just single objects. If even one of those conditions changes in a new situation, the same effect might not happen. Therefore, you need trial and error (not just abstract Reasoning) to discover or restore the missing conditions. If any one of these elements is missing or altered (e.g., different machine model might have unfamiliar buttons or unclear labels, filter or pod system, no filter in place), you don’t truly have the same state that produced the effect before. Simply “knowing the instructions” (Reason) isn’t enough—you often have to tinker (adjust, observe, repeat) to pinpoint and fix whichever condition is off in the new setup.
 
 2. Saying that AGI can apply that knowledge to *novel* situations blures the fact that what AGI is actually doing is applying EXISTING knowledge (created with causal inference) to novel situation. The only moment when new knowledge is created is when someone observed cause and effect relation through Understanding. In other words new knowledge is not the same as application of that knowledge.
 
