@@ -1,24 +1,37 @@
-<section class="sidebar">
-  <a href="{{ site.github.url }}" aria-label="Avatar">
-    <img src="{{ site.github.owner_gravatar_url }}?s=150" height="75" width="75" class="avatar" />
-  </a>
-
-  <section class="name">
-    <a href="/">
-      <span id="fname">{{ site.name|split:' '|last }}</span>
-    </a>
+<header class="site-header">
+  <section class="site-brand">
+    <a href="/">{{ site.name|split:' '|last }}</a>
+    <span>notes on philosophy, software, and systems</span>
   </section>
 
-  <section class="meta">
-    <a href="{{ site.github.owner_url }}" target="_blank" title="Follow me on GitHub" aria-label="Follow me on GitHub"><i class="fa fa-github"></i></a>
-    <a href="https://twitter.com/{{ site.twitter }}" target="_blank" title="Follow me on Twitter" aria-label="Follow me on Twitter"><i class="fa fa-twitter"></i></a>
-    <a href="/atom.xml" title="Atom RSS feed" aria-label="Atom RSS feed"><i class="fa fa-rss"></i></a>
+  <nav class="top-nav" aria-label="Main navigation">
+    <a class="active" href="/">Essays</a>
+    <a href="/">Notes</a>
+    <a href="/">About</a>
+  </nav>
+
+  <span class="theme-mark" aria-hidden="true">☼</span>
+</header>
+
+<aside class="author-rail">
+  <section class="author-card">
+    <a class="author-avatar" href="/" aria-label="{{ site.name }} home">A</a>
+
+    <h2>{{ site.name|split:' '|last }}</h2>
+    <p>builder. reader. writer.</p>
+
+    <nav class="author-nav" aria-label="Section navigation">
+      <a class="active" href="/"><i class="fa fa-book"></i> Essays</a>
+      <a href="/"><i class="fa fa-pencil"></i> Notes</a>
+      <a href="/"><i class="fa fa-user"></i> About</a>
+    </nav>
+
+    <section class="author-social">
+      <a href="{{ site.github.owner_url }}" target="_blank" title="GitHub" aria-label="GitHub"><i class="fa fa-github"></i></a>
+      <a href="https://twitter.com/{{ site.twitter }}" target="_blank" title="Twitter" aria-label="Twitter"><i class="fa fa-twitter"></i></a>
+      <a href="/atom.xml" title="Atom RSS feed" aria-label="Atom RSS feed"><i class="fa fa-rss"></i></a>
+    </section>
   </section>
 
-  <section class="sections">
-    <ul>
-      <li><a href="/">about</a></li>
-      <li><a href="{{ site.baseurl }}{{ post.url }}">posts</a></li>
-    </ul>
-  </section>
-</section>
+  <footer>© 2026 {{ site.name }}</footer>
+</aside>

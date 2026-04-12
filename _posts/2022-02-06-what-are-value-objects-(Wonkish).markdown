@@ -1,4 +1,7 @@
 ---
+layout: post
+title: "What are Value Objects (Wonkish)"
+category: posts
 published: true
 ---
 

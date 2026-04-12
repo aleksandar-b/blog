@@ -1,3 +1,10 @@
+---
+layout: post
+title: AGI as a Tool Maker
+category: posts
+published: true
+---
+
 I’ve been thinking about Schopenhauer’s distinction between knowledge of perception and knowledge of conception, how that relates to AGI, and wanted to see what others think. Here’s a quick breakdown:
 
 ### Schopenhauer’s Distinction
@@ -34,4 +41,3 @@ Without novel tools that feed new sensory data to our scientific community (huma
 • Could humanity have discovered the Higgs boson or Jupiter’s moons purely via “thinking really hard,” without actually looking or measuring?
 
 • How does this tie into modern AI research? If AI were to truly “discover” something, would it need the capacity to design experiments and gather new data?
-

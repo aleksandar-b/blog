@@ -1,4 +1,8 @@
 ---
+layout: post
+title: Plato and Software Engineering
+description: A small translation note that reveals a much deeper distinction about change, state, and what our systems really are.
+category: posts
 published: true
 ---
 
@@ -18,17 +22,19 @@ He also repeats this distinction in several other books, but with different word
 
 Exact distinction exists in software modeling as Value objects vs Entities objects in Domain Driven Design.
 
-Where Entities:  
-- have **lifecycle** (can be created and deleted or **become and perish**),  
-- can be **changed**.(**they are never in the same state**)  
-- have multiple instances (particulars) of a class  
-- are identifiable by ID  
+Where Entities:
 
-Value objects:  
-- are immutable (**they are always in the same state**)  
-- don't have lifecycle (**have no becoming and perishing**)  
-- have only one instance  
-- identifiable by properties  
+- have **lifecycle** (can be created and deleted or **become and perish**)
+- can be **changed** (**they are never in the same state**)
+- have multiple instances (particulars) of a class
+- are identifiable by ID
+
+Value objects:
+
+- don't have lifecycle (**have no becoming and perishing**)
+- are immutable (**they are always in the same state**)
+- have only one instance
+- identifiable by properties
 
 > τί τὸ ὂν ἀεί, γένεσιν δὲ οὐκ ἔχον, καὶ τί τὸ γιγνόμενον μὲν ἀεί, ὂν δὲ οὐδέποτε; 27d
 

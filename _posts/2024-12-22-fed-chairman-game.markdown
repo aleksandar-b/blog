@@ -1,3 +1,10 @@
+---
+layout: post
+title: Fed Chairman Game
+category: posts
+published: true
+---
+
 I recreated an old flash game - **Fed chairman**, an economic simulation. 
 
 You can play it [here](https://fed-chairman-game-bay.vercel.app/):

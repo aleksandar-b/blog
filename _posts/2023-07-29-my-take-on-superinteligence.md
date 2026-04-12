@@ -1,4 +1,7 @@
 ---
+layout: post
+title: My Take on Superinteligence
+category: posts
 published: true
 ---
 Creating new knowledge is an act of transitioning from known effect to unknown cause.

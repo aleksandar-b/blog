@@ -7,12 +7,12 @@ category: posts
 
 Let's explore some edge case where you have a Country class that serves only as a value to some other entity.
 
-```ts
+~~~ts
 class Country {
     id: string
     name: string
 }
-```
+~~~
 
 Do you think this should be a value or an entity? 
 
@@ -41,4 +41,3 @@ Indirect:
 2. Does not dispatch any event by itself
 
 When you create a simulation/program you created live enitites that interact with each other. To live is to have causal power. The whole world is interaction. If something has an ID but it does not participate in causal order of the world it is the same as if it does not exist - it is just dead abstraction.
-

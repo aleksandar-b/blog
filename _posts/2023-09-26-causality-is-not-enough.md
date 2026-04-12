@@ -1,4 +1,7 @@
 ---
+layout: post
+title: Causality Is Not Enough
+category: posts
 published: true
 ---
 

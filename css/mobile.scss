@@ -1,44 +1,37 @@
 ---
 #
 ---
-.sidebar {
-  position: inherit;
-  width: inherit;
-  margin: 0;
-  padding: 25px;
-  img {
-    display: none;
-  }
-  .name {
-    display: inline;
-    #fname, #lname {
-      font-size: 25px;
-    }
-  }
-  .meta {
-    display: none;
-  }
-  ul {
-    padding: 25px;
-  }
-  li {
-    display: inline;
-  }
-  .sections {
-    margin: 0;
-    a {
-      font-size: 16px;
-      margin: 0 20px 0 0;
-      padding: 5px 10px;
-    }
-  }
+.site-header {
+  display: block;
+  height: auto;
+  padding: 18px 22px 0;
+}
+
+.site-brand {
+  margin-bottom: 12px;
+}
+
+.site-brand span,
+.theme-mark,
+.author-rail {
+  display: none;
+}
+
+.top-nav {
+  gap: 12px;
+  height: 42px;
+}
+
+.top-nav a {
+  padding: 0 4px;
 }
 
 .content {
   margin: 0;
-  padding: 5px 25px;
-  width: inherit;
-  h1 {
-    margin: 0 0 5px 0;
-  }
+  padding: 36px 22px 64px;
+}
+
+.post h1,
+.content h1 {
+  font-size: 34px;
 }

@@ -1,4 +1,7 @@
 ---
+layout: post
+title: Tech Books
+category: posts
 published: true
 ---
 Here is the list of my favorite tech books so far:
