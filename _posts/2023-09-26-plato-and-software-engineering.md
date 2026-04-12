@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 ---
 
 The quote in question is from **Timaeus**, which is often used to describe Plato's Forms and particulars:
