@@ -3,6 +3,19 @@ layout: layout
 title: "Not Found"
 ---
 
+{% if site.baseurl != "" %}
+<script>
+  (function () {
+    var base = "{{ site.baseurl }}";
+    var duplicateBase = base + base + "/";
+
+    if (window.location.pathname.indexOf(duplicateBase) === 0) {
+      window.location.replace(base + "/" + window.location.pathname.slice(duplicateBase.length) + window.location.search + window.location.hash);
+    }
+  }());
+</script>
+{% endif %}
+
 <section class="content">
   <h1>Not Found</h1>
 

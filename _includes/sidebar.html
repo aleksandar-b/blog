@@ -1,13 +1,13 @@
 <header class="site-header">
   <section class="site-brand">
-    <a href="/">{{ site.name|split:' '|last }}</a>
+    <a href="{{ site.baseurl }}/">{{ site.name|split:' '|last }}</a>
     <span>notes on philosophy, software, and systems</span>
   </section>
 
   <nav class="top-nav" aria-label="Main navigation">
-    <a class="active" href="/">Essays</a>
-    <a href="/">Notes</a>
-    <a href="/">About</a>
+    <a class="active" href="{{ site.baseurl }}/">Essays</a>
+    <a href="{{ site.baseurl }}/">Notes</a>
+    <a href="{{ site.baseurl }}/">About</a>
   </nav>
 
   <span class="theme-mark" aria-hidden="true">☼</span>
@@ -15,21 +15,21 @@
 
 <aside class="author-rail">
   <section class="author-card">
-    <a class="author-avatar" href="/" aria-label="{{ site.name }} home">A</a>
+    <a class="author-avatar" href="{{ site.baseurl }}/" aria-label="{{ site.name }} home">A</a>
 
     <h2>{{ site.name|split:' '|last }}</h2>
     <p>builder. reader. writer.</p>
 
     <nav class="author-nav" aria-label="Section navigation">
-      <a class="active" href="/"><i class="fa fa-book"></i> Essays</a>
-      <a href="/"><i class="fa fa-pencil"></i> Notes</a>
-      <a href="/"><i class="fa fa-user"></i> About</a>
+      <a class="active" href="{{ site.baseurl }}/"><i class="fa fa-book"></i> Essays</a>
+      <a href="{{ site.baseurl }}/"><i class="fa fa-pencil"></i> Notes</a>
+      <a href="{{ site.baseurl }}/"><i class="fa fa-user"></i> About</a>
     </nav>
 
     <section class="author-social">
-      <a href="{{ site.github.owner_url }}" target="_blank" title="GitHub" aria-label="GitHub"><i class="fa fa-github"></i></a>
+      <a href="https://github.com/aleksandar-b" target="_blank" title="GitHub" aria-label="GitHub"><i class="fa fa-github"></i></a>
       <a href="https://twitter.com/{{ site.twitter }}" target="_blank" title="Twitter" aria-label="Twitter"><i class="fa fa-twitter"></i></a>
-      <a href="/atom.xml" title="Atom RSS feed" aria-label="Atom RSS feed"><i class="fa fa-rss"></i></a>
+      <a href="{{ site.baseurl }}/atom.xml" title="Atom RSS feed" aria-label="Atom RSS feed"><i class="fa fa-rss"></i></a>
     </section>
   </section>
 

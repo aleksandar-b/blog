@@ -11,5 +11,6 @@ comments: true
 comments_repo: "aleksandar-b/blog"
 theme: minima
 name: "Alex"
-url: "https://aleksandar-b.github.io/blog"
+url: "https://aleksandar-b.github.io"
+baseurl: "/blog"
 description: Blog
