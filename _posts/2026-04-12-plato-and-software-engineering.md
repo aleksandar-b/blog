@@ -32,7 +32,7 @@ Where Entities:
 Value objects:
 
 - don't have lifecycle (**have no becoming and perishing**)
-- are immutable (**they are always in the same state**)
+- don't have state / are immutable (**they are always in the same state**)
 - have only one instance (abstraction/form)
 - identifiable by properties / changing single property causes it to be different abstraction
 
