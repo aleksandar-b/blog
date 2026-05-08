@@ -12,7 +12,7 @@ The quote in question is from **Timaeus**, which is often used to describe Plato
 
 The correct translation should read:
 
-> "What is that which always is **(in the same state)** and has no becoming **(and perishing)**, and what is that which is always becoming **(and perishing)** ~~but~~ **(and)** never is **(in the same state)**"
+> "What is that which always is **(in the same state)** and has no becoming **(and perishing)**, and what is that which is always becoming **(and perishing)** but never is **(in the same state)**"
 
 You could see this is correct translation because in the very next sentence he elaborates:
 
@@ -25,14 +25,14 @@ Exact distinction exists in software modeling as Value objects vs Entities objec
 Where Entities:
 
 - have **lifecycle** (can be created and deleted or **become and perish**)
-- have state and can be **updated** / `"**never is (in the same state)”**"`
+- have state and can be **updated** / `"never is (in the same state)"`
 - have multiple instances (particulars) of a class
 - are identifiable by ID / changing properties does not influence it's identity
 
 Value objects:
 
 - don't have lifecycle (**have no becoming and perishing**)
-- don't have state / are immutable / `"always is **(in the same state)**"`
+- don't have state / are immutable / `"always is (in the same state)"`
 - have only one instance (abstraction/form)
 - identifiable by properties / changing single property causes it to be different abstraction
 

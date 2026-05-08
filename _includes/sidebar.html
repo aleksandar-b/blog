@@ -10,7 +10,12 @@
     <a href="{{ site.baseurl }}/">About</a>
   </nav>
 
-  <span class="theme-mark" aria-hidden="true">☼</span>
+  <span class="theme-mark" aria-hidden="true">
+    <svg class="icon" viewBox="0 0 24 24">
+      <circle cx="12" cy="12" r="4.25"></circle>
+      <path d="M12 2.5v2.25M12 19.25v2.25M4.75 4.75l1.6 1.6M17.65 17.65l1.6 1.6M2.5 12h2.25M19.25 12h2.25M4.75 19.25l1.6-1.6M17.65 6.35l1.6-1.6"></path>
+    </svg>
+  </span>
 </header>
 
 <aside class="author-rail">
@@ -21,15 +26,47 @@
     <p>builder. reader. writer.</p>
 
     <nav class="author-nav" aria-label="Section navigation">
-      <a class="active" href="{{ site.baseurl }}/"><i class="fa fa-book"></i> Essays</a>
-      <a href="{{ site.baseurl }}/"><i class="fa fa-pencil"></i> Notes</a>
-      <a href="{{ site.baseurl }}/"><i class="fa fa-user"></i> About</a>
+      <a class="active" href="{{ site.baseurl }}/">
+        <svg class="icon" viewBox="0 0 24 24" aria-hidden="true">
+          <path d="M5 5.5c0-1.1.9-2 2-2h11v16H7c-1.1 0-2-.9-2-2z"></path>
+          <path d="M8 7.5h7M8 11h7M5 17.5c0-1.1.9-2 2-2h11"></path>
+        </svg>
+        Essays
+      </a>
+      <a href="{{ site.baseurl }}/">
+        <svg class="icon" viewBox="0 0 24 24" aria-hidden="true">
+          <path d="M4.5 19.5l4.25-1.05L19.25 7.95a2.12 2.12 0 0 0-3-3L5.75 15.45z"></path>
+          <path d="M14.75 6.45l2.8 2.8"></path>
+        </svg>
+        Notes
+      </a>
+      <a href="{{ site.baseurl }}/">
+        <svg class="icon" viewBox="0 0 24 24" aria-hidden="true">
+          <circle cx="12" cy="8" r="3.25"></circle>
+          <path d="M5.25 19.5c.85-3.35 3.25-5.25 6.75-5.25s5.9 1.9 6.75 5.25"></path>
+        </svg>
+        About
+      </a>
     </nav>
 
     <section class="author-social">
-      <a href="https://github.com/aleksandar-b" target="_blank" title="GitHub" aria-label="GitHub"><i class="fa fa-github"></i></a>
-      <a href="https://twitter.com/{{ site.twitter }}" target="_blank" title="Twitter" aria-label="Twitter"><i class="fa fa-twitter"></i></a>
-      <a href="{{ site.baseurl }}/atom.xml" title="Atom RSS feed" aria-label="Atom RSS feed"><i class="fa fa-rss"></i></a>
+      <a href="https://github.com/aleksandar-b" target="_blank" title="GitHub" aria-label="GitHub">
+        <svg class="icon" viewBox="0 0 24 24" aria-hidden="true">
+          <path d="M9 19.5c-4.25 1.25-4.25-2-6-2.5M15 22v-3.4c0-.95.35-1.65 1-2.1-3.35-.4-6.75-1.65-6.75-7.3 0-1.6.55-2.9 1.5-3.9-.15-.4-.65-1.95.15-4 0 0 1.25-.4 4.1 1.5a14.1 14.1 0 0 1 7.5 0c2.85-1.9 4.1-1.5 4.1-1.5.8 2.05.3 3.6.15 4 .95 1 1.5 2.3 1.5 3.9 0 5.65-3.45 6.9-6.8 7.3.65.55 1.05 1.55 1.05 3.1V22" transform="scale(.78) translate(.75 .75)"></path>
+        </svg>
+      </a>
+      <a href="https://twitter.com/{{ site.twitter }}" target="_blank" title="X / Twitter" aria-label="X / Twitter">
+        <svg class="icon" viewBox="0 0 24 24" aria-hidden="true">
+          <path d="M5 5l14 14M19 5L5 19"></path>
+        </svg>
+      </a>
+      <a href="{{ site.baseurl }}/atom.xml" title="Atom RSS feed" aria-label="Atom RSS feed">
+        <svg class="icon" viewBox="0 0 24 24" aria-hidden="true">
+          <path d="M5 5.5c7.45 0 13.5 6.05 13.5 13.5"></path>
+          <path d="M5 10.5A8.5 8.5 0 0 1 13.5 19"></path>
+          <circle cx="6" cy="18" r="1.25"></circle>
+        </svg>
+      </a>
     </section>
   </section>
 

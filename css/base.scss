@@ -4,7 +4,7 @@
 @charset "UTF-8";
 
 $page: #fbf1df;
-$ink: #24211c;
+$ink: #302b25;
 $muted: #7c7062;
 $line: #e2cfb8;
 $panel: #f3e3cd;
@@ -37,6 +37,15 @@ a {
     text-decoration: underline;
     text-underline-offset: 3px;
   }
+}
+
+.icon {
+  fill: none;
+  flex: 0 0 auto;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: 1.75;
 }
 
 .site-header {
@@ -94,10 +103,15 @@ a {
 }
 
 .theme-mark {
+  align-items: center;
   color: $ink;
-  font-size: 27px;
+  display: flex;
   justify-self: end;
-  line-height: 1;
+
+  .icon {
+    height: 27px;
+    width: 27px;
+  }
 }
 
 .author-rail {
@@ -158,17 +172,17 @@ a {
     font-size: 17px;
     gap: 16px;
 
-    i {
+    .icon {
       color: $muted;
-      font-size: 16px;
-      width: 18px;
+      height: 21px;
+      width: 21px;
     }
 
     &.active {
       color: $ink;
       font-weight: 700;
 
-      i {
+      .icon {
         color: $accent;
       }
     }
@@ -181,12 +195,18 @@ a {
   padding-top: 32px;
 
   a {
+    align-items: center;
     color: $muted;
-    font-size: 19px;
+    display: flex;
 
     &:hover {
       color: $ink;
       text-decoration: none;
+    }
+
+    .icon {
+      height: 22px;
+      width: 22px;
     }
   }
 }
@@ -234,15 +254,19 @@ a {
     font-size: 16px;
     line-height: 1.45;
     margin: 0 0 1.05em;
+  }
 
-    code {
-      background: $panel;
-      border-radius: 3px;
-      color: $ink;
-      font-family: Menlo, Consolas, monospace;
-      font-size: 12px;
-      padding: 2px 4px;
-    }
+  p code,
+  li code {
+    background: rgba($panel, .82);
+    border: 1px solid rgba($accent, .18);
+    border-radius: 4px;
+    color: darken($accent, 6%);
+    font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+    font-size: .82em;
+    font-weight: 500;
+    padding: .08em .32em;
+    white-space: break-spaces;
   }
 
   .highlighter-rouge {
@@ -305,6 +329,7 @@ a {
     padding: 14px 18px;
 
     p {
+      color: #7c7062;
       font-size: 16px;
       font-style: italic;
       line-height: 1.55;
