@@ -25,14 +25,14 @@ Exact distinction exists in software modeling as Value objects vs Entities objec
 Where Entities:
 
 - have **lifecycle** (can be created and deleted or **become and perish**)
-- have state and can be **updated** (**they are never in the same state**)
+- have state and can be **updated** / "**never is (in the same state)”**"
 - have multiple instances (particulars) of a class
 - are identifiable by ID / changing properties does not influence it's identity
 
 Value objects:
 
 - don't have lifecycle (**have no becoming and perishing**)
-- don't have state / are immutable (**they are always in the same state**)
+- don't have state / are immutable / "always is **(in the same state)**"
 - have only one instance (abstraction/form)
 - identifiable by properties / changing single property causes it to be different abstraction
 
