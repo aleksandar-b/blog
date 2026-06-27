@@ -40,5 +40,5 @@ Where Value Objects:
 > τὸ μὲν δὴ νοήσει μετὰ λόγου περιληπτόν, ἀεὶ κατὰ ταὐτὰ ὄν, τὸ δ᾽ αὖ δόξῃ μετ᾽ αἰσθήσεως ἀλόγου δοξαστόν, γιγνόμενον καὶ ἀπολλύμενον, ὄντως δὲ οὐδέποτε ὄν. 28a
 
 
-What this tells me is how loaded are the terms Being and Becoming in philosophy. From the section above you could see they are just shorthand for "**being** in the same state" (Immutable objects that cannot change without changing their identity) and "**becoming** and perishing" (Objects that can change their internal state but still stay the same).
+What this tells me is how loaded are the terms Being and Becoming in philosophy. From the section above you could see they are just shorthand for "**being** in the same state" (Immutable objects that cannot change without changing their identity) and "**becoming** and perishing" (Lifecycles with stable identity).
 
