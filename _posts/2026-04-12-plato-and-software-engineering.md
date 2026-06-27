@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Plato and Domain Driven Design
-description: A small translation note that reveals a distinction being and becoming and how it relates to domain driven design.
+description: A small translation note that reveals a distinction between being and becoming and how it relates to domain driven design.
 category: posts
 published: true
 ---
@@ -24,17 +24,16 @@ Exact distinction exists in software modeling as Value objects vs Entities objec
 
 Where Entities:
 
-- have **lifecycle** (can be created and deleted or **become and perish**)
+- have **lifecycles** (can be created and deleted or **become and perish**)
 - have state and can be **updated** / `"never is (in the same state)"`
 - have multiple instances (particulars) of a class
-- are identifiable by ID / changing properties does not influence it's identity
+- are identifiable by single property ID or time&space / changing other properties does not influence it's identity
 
-Value objects:
 
 - don't have lifecycle (**have no becoming and perishing**)
 - don't have state / are immutable / `"always is (in the same state)"`
 - have only one instance (abstraction/form)
-- identifiable by properties / changing single property causes it to be different abstraction
+- identifiable by all properties / changing a single property causes it to be different abstraction
 
 > τί τὸ ὂν ἀεί, γένεσιν δὲ οὐκ ἔχον, καὶ τί τὸ γιγνόμενον μὲν ἀεί, ὂν δὲ οὐδέποτε; 27d
 
