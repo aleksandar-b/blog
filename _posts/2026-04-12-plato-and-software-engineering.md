@@ -6,7 +6,7 @@ category: posts
 published: true
 ---
 
-The quote in question is from **Timaeus**, which is often used to describe Plato's Forms and particulars or Being and Becoming.:
+The quote in question is from **Timaeus**, which is often used to describe Plato's distinction between Forms and particulars or Being and Becoming.:
 
 > "What is that which always is and has no becoming; and what is that which is always becoming and never is?". 27a Timaeus
 
